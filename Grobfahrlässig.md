@@ -1,4 +1,4 @@
-Unter Grobfahrlässigkeit versteht man das Grosses Risiko eingehen wenn man weiss, dass es sehr schief laufen kann.
+Grobfahrlässigkeit bedeutet, ein großes Risiko einzugehen und dabei grundlegende Sorgfaltspflichten zu ignorieren, obwohl man sich der möglichen erheblichen Schäden bewusst ist oder sein sollte.
 
 Beispiele:
-**im Strassenverkehr wären das Fahren unter Alkoholeinfluss oder das Überholen in einer Kurve bei schlechter Sich**
+Im Strassenverkehr wärend das Fahren unter Alkoholeinfluss oder das Überholen in einer Kurve bei schlechter Sicht
