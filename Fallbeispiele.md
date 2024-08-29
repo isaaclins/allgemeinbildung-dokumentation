@@ -1,2 +1,5 @@
 
-1. Ein Motorradfahrer touchiert a
+| Situation                                                         | Wer übernimmt die Kosten?            |
+| ----------------------------------------------------------------- | ------------------------------------ |
+| Ein Motorradfahrer touchiert auf dem Zebrastreifen eine alte dame | Motorfahrzeughaftpflichtversicherung |
+
