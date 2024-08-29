@@ -174,9 +174,17 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "6f5648a7de83e82c",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 12
+        "currentTab": 14
       }
     ],
     "direction": "vertical"
@@ -242,7 +250,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Unterversicherung.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -259,7 +266,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Unterversicherung.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -281,9 +287,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Unterversicherung.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -304,8 +308,9 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "32fc5ea6a51160b6",
+  "active": "6f5648a7de83e82c",
   "lastOpenFiles": [
+    "Unterversicherung.md",
     "Untitled.md",
     "Vollkaskoversicherung.md",
     "Doppeltversicherung.md",
@@ -314,7 +319,6 @@
     "2024-08-29.md",
     "Untitled.canvas",
     "Überversicherung.md",
-    "Unterversicherung.md",
     "README.md",
     "allgemeinbildung-dokumentation/README.md",
     "allgemeinbildung-dokumentation",
