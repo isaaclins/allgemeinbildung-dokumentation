@@ -179,8 +179,12 @@
             "id": "6f5648a7de83e82c",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Vollkaskoversicherung.md",
+                "mode": "source",
+                "source": false
+              }
             }
           },
           {
@@ -194,9 +198,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "26f2fd2c396618d4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Personenversicherung.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 15
+        "currentTab": 13
       }
     ],
     "direction": "vertical"
@@ -262,7 +278,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Fallbeispiele.md",
+                "file": "Doppeltversicherung.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -279,7 +295,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Fallbeispiele.md",
+                "file": "Doppeltversicherung.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -302,7 +318,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Fallbeispiele.md"
+                "file": "Doppeltversicherung.md"
               }
             }
           }
@@ -324,11 +340,13 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "e346bc715a21199d",
+  "active": "39d0b575e177959f",
   "lastOpenFiles": [
+    "Vollkaskoversicherung.md",
+    "Personenversicherung.md",
+    "Versicherungen.md",
     "Fallbeispiele.md",
     "Unterversicherung.md",
-    "Vollkaskoversicherung.md",
     "Doppeltversicherung.md",
     "TEMPLATE.md",
     "conflict-files-obsidian-git.md",
@@ -341,13 +359,11 @@
     "Motorfahrzeug.md",
     "Teilkaskoversicherung.md",
     "Krankenversicherung.md",
-    "Personenversicherung.md",
     "Hausratversicherung.md",
     "Zeitwert.md",
     "Neuwert.md",
     "Sachversicherung.md",
     "Gebäudeversicherung.md",
-    "Versicherungen.md",
     "Motorfahrzeughaftpflichtversicherung.md",
     "Haftpflichversicherung.md",
     "Grobfahrlässig.md",
