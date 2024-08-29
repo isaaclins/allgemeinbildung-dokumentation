@@ -189,7 +189,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "fallbeispie.md",
+                "file": "Fallbeispiele.md",
                 "mode": "source",
                 "source": false
               }
@@ -262,7 +262,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "fallbeispie.md",
+                "file": "Fallbeispiele.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -279,7 +279,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "fallbeispie.md",
+                "file": "Fallbeispiele.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -302,7 +302,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "fallbeispie.md"
+                "file": "Fallbeispiele.md"
               }
             }
           }
@@ -326,7 +326,7 @@
   },
   "active": "e346bc715a21199d",
   "lastOpenFiles": [
-    "fallbeispie.md",
+    "Fallbeispiele.md",
     "Unterversicherung.md",
     "Vollkaskoversicherung.md",
     "Doppeltversicherung.md",
