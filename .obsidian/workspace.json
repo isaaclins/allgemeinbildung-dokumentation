@@ -169,7 +169,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Doppeltversicherung.md",
+                "file": "TEMPLATE.md",
                 "mode": "source",
                 "source": false
               }
@@ -278,7 +278,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Doppeltversicherung.md",
+                "file": "TEMPLATE.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -295,7 +295,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Doppeltversicherung.md",
+                "file": "TEMPLATE.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -318,7 +318,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Doppeltversicherung.md"
+                "file": "TEMPLATE.md"
               }
             }
           }
@@ -342,12 +342,12 @@
   },
   "active": "39d0b575e177959f",
   "lastOpenFiles": [
+    "Doppeltversicherung.md",
     "Vollkaskoversicherung.md",
     "Personenversicherung.md",
     "Versicherungen.md",
     "Fallbeispiele.md",
     "Unterversicherung.md",
-    "Doppeltversicherung.md",
     "TEMPLATE.md",
     "conflict-files-obsidian-git.md",
     "2024-08-29.md",
