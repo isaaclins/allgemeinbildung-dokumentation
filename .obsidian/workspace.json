@@ -1,0 +1,360 @@
+{
+  "main": {
+    "id": "4db4bde40fccf179",
+    "type": "split",
+    "children": [
+      {
+        "id": "8933cd64cf407b76",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "14b9926dc447ea58",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Regress.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4cb2c7c2972165d2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Grobfahrlässig.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0fa751d21312ac76",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Haftpflichversicherung.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4597827d8f6ea4b7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Motorfahrzeughaftpflichtversicherung.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "fe546c110eebf0f4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Gebäudeversicherung.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b03ea82c4d6b7bd5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Hausratversicherung.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "be63cd7ee19aede1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Personenversicherung.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "5ea26049f9fed877",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Neuwert.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "cfd79a728b339db6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Zeitwert.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "576c467c085d5692",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Krankenversicherung.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "49d1dbd5bceb938c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Vollkaskoversicherung.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "13f35ea024ddfb62",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Teilkaskoversicherung.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "32fc5ea6a51160b6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Unterversicherung.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "144690510b73a8c3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Untitled.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "39d0b575e177959f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Doppeltversicherung.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "aa936b3f6d38952c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 15
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "9a7b9620d3b233b0",
+    "type": "split",
+    "children": [
+      {
+        "id": "ca0a9772743731d4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f919836425d98d46",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "1868a2e83f339114",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "unter",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "ff169cb2d5594895",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "6b7dfd54e2934d0f",
+    "type": "split",
+    "children": [
+      {
+        "id": "7ab61910948aee3a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6dacd7f177d54fd3",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "a882d7bd9140b791",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "cf3c3762678fb27e",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "ffd112f484a76c8d",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "conflict-files-obsidian-git.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "templater-obsidian:Templater": false
+    }
+  },
+  "active": "aa936b3f6d38952c",
+  "lastOpenFiles": [
+    "Doppeltversicherung.md",
+    "conflict-files-obsidian-git.md",
+    "Untitled.md",
+    "2024-08-29.md",
+    "Untitled.canvas",
+    "Überversicherung.md",
+    "Unterversicherung.md",
+    "README.md",
+    "allgemeinbildung-dokumentation/README.md",
+    "allgemeinbildung-dokumentation",
+    "Motorfahrzeug.md",
+    "Vollkaskoversicherung.md",
+    "Teilkaskoversicherung.md",
+    "Krankenversicherung.md",
+    "Personenversicherung.md",
+    "Hausratversicherung.md",
+    "Zeitwert.md",
+    "Neuwert.md",
+    "Sachversicherung.md",
+    "Gebäudeversicherung.md",
+    "Versicherungen.md",
+    "Motorfahrzeughaftpflichtversicherung.md",
+    "Haftpflichversicherung.md",
+    "Grobfahrlässig.md",
+    "Regress.md",
+    "Welcome.md"
+  ]
+}
