@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Doppeltversicherung.md",
+                "file": "Fallbeispiele.md",
                 "mode": "source",
                 "source": false
               }
@@ -73,7 +73,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Personenversicherung.md",
+                "file": "Versicherungsarten/Personenversicherung.md",
                 "mode": "source",
                 "source": false
               }
@@ -193,7 +193,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Personenversicherung.md",
+                "file": "Versicherungsarten/Personenversicherung.md",
                 "mode": "source",
                 "source": false
               }
@@ -265,7 +265,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Doppeltversicherung.md",
+                "file": "Fallbeispiele.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -282,7 +282,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Doppeltversicherung.md",
+                "file": "Fallbeispiele.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -305,7 +305,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Doppeltversicherung.md"
+                "file": "Fallbeispiele.md"
               }
             }
           }
@@ -329,16 +329,24 @@
   },
   "active": "4cb2c7c2972165d2",
   "lastOpenFiles": [
-    "Grobfahrlässig.md",
-    "Doppeltversicherung.md",
+    "Versicherungsarten/Sachversicherung.md",
+    "Versicherungsarten/Personenversicherung.md",
     "Haftpflichversicherung.md",
+    "Versicherungsarten",
     "Regress.md",
     "README.md",
+    "Neuwert.md",
+    "Motorfahrzeughaftpflichtversicherung.md",
+    "Motorfahrzeug.md",
+    "Krankenversicherung.md",
+    "Hausratversicherung.md",
+    "Gebäudeversicherung.md",
+    "Fallbeispiele.md",
+    "Doppeltversicherung.md",
+    "Grobfahrlässig.md",
     "TEMPLATE.md",
     "Vollkaskoversicherung.md",
-    "Personenversicherung.md",
     "Versicherungen.md",
-    "Fallbeispiele.md",
     "Unterversicherung.md",
     "conflict-files-obsidian-git.md",
     "2024-08-29.md",
@@ -346,15 +354,8 @@
     "Überversicherung.md",
     "allgemeinbildung-dokumentation/README.md",
     "allgemeinbildung-dokumentation",
-    "Motorfahrzeug.md",
     "Teilkaskoversicherung.md",
-    "Krankenversicherung.md",
-    "Hausratversicherung.md",
     "Zeitwert.md",
-    "Neuwert.md",
-    "Sachversicherung.md",
-    "Gebäudeversicherung.md",
-    "Motorfahrzeughaftpflichtversicherung.md",
     "Welcome.md"
   ]
 }

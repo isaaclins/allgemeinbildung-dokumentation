@@ -1,8 +1,5 @@
+**Hausratversicherung:**
+Die Hausratversicherung ist nicht obligatorisch, aber sinnvoll. Sie versichert den gesamten Hausrat gegen Schäden durch Feuer, Wasser, Einbruchdiebstahl und Vandalismus.
 
-
-
--> Sachen Im Haus selbst 
--> Ist NICHT Obligatorisch
--> Bewegliche Dinge im Haus drinnen.
-
--> Bezahlt wird der Ganzbetrag des Neuwertes
+## Fallbeispiel:
+Ein Einbruch führt zum Verlust von Elektronikgeräten und Schmuck. Die Hausratversicherung ersetzt den **[[Neuwert]]** der gestohlenen Gegenstände

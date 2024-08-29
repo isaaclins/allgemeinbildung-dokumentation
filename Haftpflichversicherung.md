@@ -1,7 +1,4 @@
-Schäden an Drittpersonen zu decken:
+Die Haftpflichtversicherung ist nicht obligatorisch, aber sehr empfehlenswert. Sie deckt Schäden ab, die man anderen Personen oder deren Eigentum zufügt.
 
-Beispiel: Ich mach scheiss, ich füge an drittpersonen oder deren sachen Schaden hinzu 
-
-
-->[[Motorfahrzeughaftpflichtversicherung]]
--> Privathaftpflichtversicherung
+## Fallbeispiel:
+Ein Kind wirft beim Spielen einen Ball durch das Fenster des Nachbarn. Die Haftpflichtversicherung übernimmt die Kosten für den Schaden.
