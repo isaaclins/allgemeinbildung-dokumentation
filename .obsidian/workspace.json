@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Regress.md",
+                "file": "Grobfahrlässig.md",
                 "mode": "source",
                 "source": false
               }
@@ -169,7 +169,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TEMPLATE.md",
+                "file": "Doppeltversicherung.md",
                 "mode": "source",
                 "source": false
               }
@@ -211,8 +211,7 @@
               }
             }
           }
-        ],
-        "currentTab": 13
+        ]
       }
     ],
     "direction": "vertical"
@@ -278,7 +277,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TEMPLATE.md",
+                "file": "Grobfahrlässig.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -295,7 +294,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TEMPLATE.md",
+                "file": "Grobfahrlässig.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -318,7 +317,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TEMPLATE.md"
+                "file": "Grobfahrlässig.md"
               }
             }
           }
@@ -340,20 +339,21 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "39d0b575e177959f",
+  "active": "14b9926dc447ea58",
   "lastOpenFiles": [
+    "Regress.md",
     "Doppeltversicherung.md",
+    "README.md",
+    "TEMPLATE.md",
     "Vollkaskoversicherung.md",
     "Personenversicherung.md",
     "Versicherungen.md",
     "Fallbeispiele.md",
     "Unterversicherung.md",
-    "TEMPLATE.md",
     "conflict-files-obsidian-git.md",
     "2024-08-29.md",
     "Untitled.canvas",
     "Überversicherung.md",
-    "README.md",
     "allgemeinbildung-dokumentation/README.md",
     "allgemeinbildung-dokumentation",
     "Motorfahrzeug.md",
@@ -367,7 +367,6 @@
     "Motorfahrzeughaftpflichtversicherung.md",
     "Haftpflichversicherung.md",
     "Grobfahrlässig.md",
-    "Regress.md",
     "Welcome.md"
   ]
 }
