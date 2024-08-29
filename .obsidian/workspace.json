@@ -182,9 +182,21 @@
               "type": "empty",
               "state": {}
             }
+          },
+          {
+            "id": "e346bc715a21199d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "fallbeispie.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 14
+        "currentTab": 15
       }
     ],
     "direction": "vertical"
@@ -250,6 +262,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "fallbeispie.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -266,6 +279,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "fallbeispie.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -287,7 +301,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "fallbeispie.md"
+              }
             }
           }
         ]
@@ -308,10 +324,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "6f5648a7de83e82c",
+  "active": "e346bc715a21199d",
   "lastOpenFiles": [
+    "fallbeispie.md",
     "Unterversicherung.md",
-    "Untitled.md",
     "Vollkaskoversicherung.md",
     "Doppeltversicherung.md",
     "TEMPLATE.md",
