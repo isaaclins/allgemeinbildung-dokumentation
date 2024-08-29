@@ -1,0 +1,2 @@
+-> Obligatorisch für besitzer von Gebäude
+-> Schäden von der Natur an Gebäude (Sturm, gewitter, brand)

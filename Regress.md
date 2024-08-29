@@ -1,0 +1,1 @@
+Rückforderung, die eine Versicherung stellen kann, wenn ein Unfall oder ein Schaden [[grobfahrlässig]] herbeigeführt wurde
