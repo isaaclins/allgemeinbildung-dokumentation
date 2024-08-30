@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Fallbeispiele.md",
+                "file": "Versicherungsarten/Haftpflichversicherung.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Haftpflichversicherung.md",
+                "file": "Versicherungsarten/Haftpflichversicherung.md",
                 "mode": "source",
                 "source": false
               }
@@ -73,7 +73,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Versicherungsarten/Personenversicherung.md",
+                "file": "Versicherungsarten/Personenversicherungen/Personenversicherung.md",
                 "mode": "source",
                 "source": false
               }
@@ -193,7 +193,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Versicherungsarten/Personenversicherung.md",
+                "file": "Versicherungsarten/Personenversicherungen/Personenversicherung.md",
                 "mode": "source",
                 "source": false
               }
@@ -265,7 +265,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Fallbeispiele.md",
+                "file": "Versicherungsarten/Haftpflichversicherung.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -282,7 +282,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Fallbeispiele.md",
+                "file": "Versicherungsarten/Haftpflichversicherung.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -305,7 +305,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Fallbeispiele.md"
+                "file": "Versicherungsarten/Haftpflichversicherung.md"
               }
             }
           }
@@ -327,11 +327,13 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "4cb2c7c2972165d2",
+  "active": "f919836425d98d46",
   "lastOpenFiles": [
+    "Versicherungsarten/Personenversicherungen",
     "Versicherungsarten/Sachversicherung.md",
-    "Versicherungsarten/Personenversicherung.md",
-    "Haftpflichversicherung.md",
+    "Versicherungsarten/Personenversicherungen/Personenversicherung.md",
+    "Fallbeispiele.md",
+    "Versicherungsarten/Haftpflichversicherung.md",
     "Versicherungsarten",
     "Regress.md",
     "README.md",
@@ -341,7 +343,6 @@
     "Krankenversicherung.md",
     "Hausratversicherung.md",
     "Gebäudeversicherung.md",
-    "Fallbeispiele.md",
     "Doppeltversicherung.md",
     "Grobfahrlässig.md",
     "TEMPLATE.md",
