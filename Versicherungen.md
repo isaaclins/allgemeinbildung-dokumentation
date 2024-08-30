@@ -1,6 +1,6 @@
 Es gibt 3 Versicherungsarten:
 
 
--> [[Personenversicherung]]
+-> [[Personenversicherung Allgemein]]
 -> [[Sachversicherung]]
 -> [[Motorfahrzeughaftpflichtversicherung]]

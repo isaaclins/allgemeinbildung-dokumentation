@@ -54,5 +54,5 @@
     "lastShownAuthorDisplay": "initials",
     "lastShownDateTimeFormatOptions": "date"
   },
-  "autoCommitMessage": "*auto vault backup*\nDATE: {{date}}\nPUSHED FROM: {{hostname}}\nNUMBER OF FILE: {{numFiles}}\nFILES CHANGED: {{files}}\n"
+  "autoCommitMessage": "*auto vault backup*\nDATE: {{date}}\nNUMBER OF FILES: {{numFiles}}\nFILES CHANGED: \n{{files}}\n"
 }

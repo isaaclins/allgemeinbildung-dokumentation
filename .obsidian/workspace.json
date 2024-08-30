@@ -8,24 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "4cb2c7c2972165d2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Versicherungsarten/Haftpflichversicherung.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "0fa751d21312ac76",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Versicherungsarten/Haftpflichversicherung.md",
+                "file": "Fachbegriffe/Doppeltversicherung.md",
                 "mode": "source",
                 "source": false
               }
@@ -37,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Motorfahrzeughaftpflichtversicherung.md",
+                "file": "Versicherungsarten/Haftpflichtversicherung/Motorfahrzeughaftpflichtversicherung.md",
                 "mode": "source",
                 "source": false
               }
@@ -49,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Gebäudeversicherung.md",
+                "file": "Versicherungsarten/Sachversicherung/Gebäudeversicherung.md",
                 "mode": "source",
                 "source": false
               }
@@ -61,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Hausratversicherung.md",
+                "file": "Versicherungsarten/Sachversicherung/Hausratversicherung.md",
                 "mode": "source",
                 "source": false
               }
@@ -73,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Versicherungsarten/Personenversicherungen/Personenversicherung.md",
+                "file": "Versicherungsarten/Personenversicherungen/Personenversicherung Allgemein.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +73,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Neuwert.md",
+                "file": "Fachbegriffe/Neuwert.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +85,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Zeitwert.md",
+                "file": "Fachbegriffe/Zeitwert.md",
                 "mode": "source",
                 "source": false
               }
@@ -109,7 +97,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Krankenversicherung.md",
+                "file": "Versicherungsarten/Personenversicherungen/Krankenversicherung.md",
                 "mode": "source",
                 "source": false
               }
@@ -121,7 +109,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Vollkaskoversicherung.md",
+                "file": "Versicherungsarten/Sachversicherung/Vollkaskoversicherung.md",
                 "mode": "source",
                 "source": false
               }
@@ -133,7 +121,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Teilkaskoversicherung.md",
+                "file": "Versicherungsarten/Sachversicherung/Teilkaskoversicherung.md",
                 "mode": "source",
                 "source": false
               }
@@ -145,7 +133,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Unterversicherung.md",
+                "file": "Fachbegriffe/Unterversicherung.md",
                 "mode": "source",
                 "source": false
               }
@@ -157,7 +145,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Doppeltversicherung.md",
+                "file": "Fachbegriffe/Doppeltversicherung.md",
                 "mode": "source",
                 "source": false
               }
@@ -169,7 +157,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Vollkaskoversicherung.md",
+                "file": "Versicherungsarten/Sachversicherung/Vollkaskoversicherung.md",
                 "mode": "source",
                 "source": false
               }
@@ -193,13 +181,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Versicherungsarten/Personenversicherungen/Personenversicherung.md",
+                "file": "Versicherungen.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 14
       }
     ],
     "direction": "vertical"
@@ -265,7 +254,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Versicherungsarten/Haftpflichversicherung.md",
+                "file": "Versicherungen.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -282,7 +271,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Versicherungsarten/Haftpflichversicherung.md",
+                "file": "Versicherungen.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -305,7 +294,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Versicherungsarten/Haftpflichversicherung.md"
+                "file": "Versicherungen.md"
               }
             }
           }
@@ -327,36 +316,39 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "f919836425d98d46",
+  "active": "26f2fd2c396618d4",
   "lastOpenFiles": [
-    "Versicherungsarten/Personenversicherungen",
-    "Versicherungsarten/Sachversicherung.md",
-    "Versicherungsarten/Personenversicherungen/Personenversicherung.md",
-    "Fallbeispiele.md",
-    "Versicherungsarten/Haftpflichversicherung.md",
-    "Versicherungsarten",
-    "Regress.md",
-    "README.md",
-    "Neuwert.md",
-    "Motorfahrzeughaftpflichtversicherung.md",
-    "Motorfahrzeug.md",
-    "Krankenversicherung.md",
-    "Hausratversicherung.md",
-    "Gebäudeversicherung.md",
-    "Doppeltversicherung.md",
-    "Grobfahrlässig.md",
-    "TEMPLATE.md",
-    "Vollkaskoversicherung.md",
-    "Versicherungen.md",
-    "Unterversicherung.md",
-    "conflict-files-obsidian-git.md",
+    "Versicherungsarten/Haftpflichtversicherung/Motorfahrzeughaftpflichtversicherung.md",
+    "Versicherungsarten/Sachversicherung/Sachversicherung.md",
+    "Versicherungsarten/Sachversicherung/Gebäudeversicherung.md",
+    "Fachbegriffe/Doppeltversicherung.md",
+    "Fachbegriffe",
+    "Versicherungsarten/Personenversicherungen/Personenversicherung Allgemein.md",
     "2024-08-29.md",
+    "Versicherungsarten/Haftpflichtversicherung",
+    "Versicherungsarten/Sachversicherung",
+    "Versicherungsarten/Haftpflichtversicherung/Haftpflichtversicherung.md",
+    "Haftpflichtversicherung.md",
+    "Fachbegriffe/Grobfahrlässig.md",
+    "Versicherungsarten/Sachversicherung/Hausratversicherung.md",
+    "Versicherungsarten/Personenversicherungen",
+    "Fallbeispiele.md",
+    "Versicherungsarten",
+    "Fachbegriffe/Regress.md",
+    "README.md",
+    "Fachbegriffe/Neuwert.md",
+    "Motorfahrzeug.md",
+    "Versicherungsarten/Personenversicherungen/Krankenversicherung.md",
+    "TEMPLATE.md",
+    "Versicherungsarten/Sachversicherung/Vollkaskoversicherung.md",
+    "Versicherungen.md",
+    "Fachbegriffe/Unterversicherung.md",
+    "conflict-files-obsidian-git.md",
     "Untitled.canvas",
-    "Überversicherung.md",
+    "Fachbegriffe/Überversicherung.md",
     "allgemeinbildung-dokumentation/README.md",
     "allgemeinbildung-dokumentation",
-    "Teilkaskoversicherung.md",
-    "Zeitwert.md",
-    "Welcome.md"
+    "Versicherungsarten/Sachversicherung/Teilkaskoversicherung.md",
+    "Fachbegriffe/Zeitwert.md"
   ]
 }

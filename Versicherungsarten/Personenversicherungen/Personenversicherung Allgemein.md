@@ -5,4 +5,3 @@ Die Personenversicherung ist nicht obligatorisch und umfasst verschiedene Versic
 Ein Arbeitnehmer erleidet einen Arbeitsunfall und kann nicht mehr arbeiten. Die Unfallversicherung zahlt eine Rente zur finanziellen Absicherung.
 
 
-###
