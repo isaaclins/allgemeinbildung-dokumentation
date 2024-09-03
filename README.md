@@ -1,1 +1,0 @@
-# allgemeinbildung-dokumentation

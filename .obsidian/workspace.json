@@ -181,7 +181,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Versicherungen.md",
+                "file": "Fallbeispiele.md",
                 "mode": "source",
                 "source": false
               }
@@ -254,7 +254,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Versicherungen.md",
+                "file": "Fallbeispiele.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -271,7 +271,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Versicherungen.md",
+                "file": "Fallbeispiele.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -294,7 +294,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Versicherungen.md"
+                "file": "Fallbeispiele.md"
               }
             }
           }
@@ -318,6 +318,10 @@
   },
   "active": "26f2fd2c396618d4",
   "lastOpenFiles": [
+    "Versicherungsarten/Versicherungen.md",
+    "Motorfahrzeug.md",
+    "README.md",
+    "TEMPLATE.md",
     "Versicherungsarten/Haftpflichtversicherung/Motorfahrzeughaftpflichtversicherung.md",
     "Versicherungsarten/Sachversicherung/Sachversicherung.md",
     "Versicherungsarten/Sachversicherung/Gebäudeversicherung.md",
@@ -335,13 +339,9 @@
     "Fallbeispiele.md",
     "Versicherungsarten",
     "Fachbegriffe/Regress.md",
-    "README.md",
     "Fachbegriffe/Neuwert.md",
-    "Motorfahrzeug.md",
     "Versicherungsarten/Personenversicherungen/Krankenversicherung.md",
-    "TEMPLATE.md",
     "Versicherungsarten/Sachversicherung/Vollkaskoversicherung.md",
-    "Versicherungen.md",
     "Fachbegriffe/Unterversicherung.md",
     "conflict-files-obsidian-git.md",
     "Untitled.canvas",
