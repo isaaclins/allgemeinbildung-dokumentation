@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "e0ede0190a1f87c4",
+        "id": "aa9c65fd80f597be",
         "type": "tabs",
         "children": [
           {
-            "id": "969c3835441e2434",
+            "id": "36f11c88845b8b0f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Versicherungsarten/Sachversicherung/Sachversicherung.md",
+                "file": "Versicherungsarten/Versicherungen.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Versicherungsarten/Sachversicherung/Sachversicherung.md",
+                "file": "Versicherungsarten/Versicherungen.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Versicherungsarten/Sachversicherung/Sachversicherung.md",
+                "file": "Versicherungsarten/Versicherungen.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Versicherungsarten/Sachversicherung/Sachversicherung.md"
+                "file": "Versicherungsarten/Versicherungen.md"
               }
             }
           }
@@ -147,11 +147,13 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "969c3835441e2434",
+  "active": "36f11c88845b8b0f",
   "lastOpenFiles": [
+    "Fachbegriffe/Bonus-Malus-System.md",
     "Versicherungsarten/Haftpflichtversicherung/Haftpflichtversicherung.md",
-    "Versicherungsarten/Sachversicherung/Sachversicherung.md",
     "Versicherungsarten/Versicherungen.md",
+    "Versicherungsarten/Haftpflichtversicherung/Obligatorisch/Motorfahrzeughaftpflichtversicherung.md",
+    "Versicherungsarten/Sachversicherung/Sachversicherung.md",
     "Fachbegriffe/Zeitwert.md",
     "Versicherungsarten/Personenversicherungen/Personenversicherung Allgemein.md",
     "Versicherungsarten/Haftpflichtversicherung/Freiwillig/Untitled.md",
@@ -166,7 +168,6 @@
     "Versicherungsarten/Personenversicherungen/Freiwillig/Private-Vorsorge-3-säule.md",
     "Versicherungsarten/Personenversicherungen/Freiwillig/Private-Unfallversicherung.md",
     "Bonus-Malus-System.md",
-    "Versicherungsarten/Haftpflichtversicherung/Obligatorisch/Motorfahrzeughaftpflichtversicherung.md",
     "Versicherungsarten/Haftpflichtversicherung/Obligatorisch",
     "Versicherungsarten/Haftpflichtversicherung/Freiwillig",
     "Fallbeispiele.md",
@@ -183,7 +184,6 @@
     "Versicherungsarten/Personenversicherungen/Obligatorisch/New Bitmap-Bild.bmp",
     "Versicherungsarten/Personenversicherungen/Obligatorisch/New Textdokument.txt",
     "Versicherungsarten/Personenversicherungen/Obligatorisch/Erwerbsersatzordnung",
-    "Versicherungsarten/Personenversicherungen/Obligatorisch/Invalidenversicherung.md",
     "Versicherungsarten/Sachversicherung/Freiwillig/New Textdokument.txt",
     "Versicherungsarten/Sachversicherung/Obligatorisch",
     "Versicherungsarten/Sachversicherung/Freiwillig"

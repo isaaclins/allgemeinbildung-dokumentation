@@ -3,7 +3,7 @@ Es gibt 3 Versicherungsarten:
 
 -> [[Personenversicherung Allgemein]]
 -> [[Sachversicherung]]
--> [[Motorfahrzeughaftpflichtversicherung]]
+-> [[Haftpflichtversicherung]]
 
 [[Personenversicherung Allgemein]] - Personenversicherungen schützen Einzelpersonen vor finanziellen Risiken im Zusammenhang mit Verletzungen, Krankheiten oder Tod. Sie können Lebensversicherungen, Krankenversicherungen und Unfallversicherungen umfassen. Die meisten Personenversicherungen sind nicht obligatorisch, aber es wird dringend empfohlen, eine Krankenversicherung abzuschließen.
 
@@ -36,10 +36,7 @@ Es gibt 3 Versicherungsarten:
 
 [[Haftpflichtversicherung]] - Eine Haftpflichtversicherung schützt den Versicherungsnehmer vor finanziellen Verlusten, die durch Schäden an Dritten verursacht werden. Sie deckt in der Regel Schadensersatzansprüche ab, die aus Verletzungen, Sachschäden oder Vermögensschäden resultieren können. Eine Haftpflichtversicherung ist in den meisten Fällen nicht obligatorisch, aber es wird dringend empfohlen, eine solche Versicherung abzuschließen, um sich vor unvorhergesehenen Kosten zu schützen.
 
-| Versicherungsarten        | Obligatorisch? |
-| ------------------------- | -------------- |
-| [[Diebstahlversicherung]] | NEIN           |
-| [[Teilkaskoversicherung]] | NEIN           |
-| [[Vollkaskoversicherung]] | NEIN           |
-| [[Gebäudeversicherung]]   | JA             |
-| [[Hausratversicherung]]   | JA             |
+| Versicherungsarten                       | Obligatorisch? |
+| ---------------------------------------- | -------------- |
+| [[Motorfahrzeughaftpflichtversicherung]] | JA             |
+| [[Privathaftpflichtversicherung]]        | NEIN           |
