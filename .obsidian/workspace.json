@@ -4,119 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "8933cd64cf407b76",
+        "id": "205f8af16f3ce5c8",
         "type": "tabs",
         "children": [
           {
-            "id": "0fa751d21312ac76",
+            "id": "e59153c118b9715b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "Fachbegriffe/Doppeltversicherung.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "4597827d8f6ea4b7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Versicherungsarten/Haftpflichtversicherung/Motorfahrzeughaftpflichtversicherung.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "be63cd7ee19aede1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Versicherungsarten/Personenversicherungen/Personenversicherung Allgemein.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "5ea26049f9fed877",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Fachbegriffe/Neuwert.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "cfd79a728b339db6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Fachbegriffe/Zeitwert.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "32fc5ea6a51160b6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Fachbegriffe/Unterversicherung.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "39d0b575e177959f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Fachbegriffe/Doppeltversicherung.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e346bc715a21199d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Fallbeispiele.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "26f2fd2c396618d4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Fallbeispiele.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 8
+        ]
       }
     ],
     "direction": "vertical"
@@ -240,11 +143,14 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "templater-obsidian:Templater": false
     }
   },
-  "active": "f919836425d98d46",
+  "active": "e59153c118b9715b",
   "lastOpenFiles": [
+    "Fachbegriffe/Grobfahrlässig.md",
+    "Fachbegriffe/Doppeltversicherung.md",
     "Versicherungsarten/Personenversicherungen/Freiwillig/Private-Unfallversicherung.md",
     "Versicherungsarten/Personenversicherungen/Freiwillig/New Microsoft PowerPoint Presentation.pptx",
     "Versicherungsarten/Personenversicherungen/Freiwillig/Private-Vorsorge-3-säule.md",
@@ -279,9 +185,7 @@
     "Versicherungsarten/Haftpflichtversicherung/Motorfahrzeughaftpflichtversicherung.md",
     "Versicherungsarten/Sachversicherung/Sachversicherung.md",
     "Versicherungsarten/Sachversicherung/Gebäudeversicherung.md",
-    "Fachbegriffe/Doppeltversicherung.md",
     "Versicherungsarten/Personenversicherungen/Personenversicherung Allgemein.md",
-    "2024-08-29.md",
     "Untitled.canvas"
   ]
 }
