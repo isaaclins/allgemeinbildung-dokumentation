@@ -4,47 +4,43 @@
     "type": "split",
     "children": [
       {
-        "id": "fef87d8dff85725d",
+        "id": "e0ede0190a1f87c4",
         "type": "tabs",
         "children": [
           {
-            "id": "fccc5382dde3dd5f",
+            "id": "969c3835441e2434",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Versicherungsarten/Haftpflichtversicherung/Freiwillig/Privathaftpflichtversicherung.md",
+                "file": "Fachbegriffe/Zeitwert.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "624c0df9f57c904a",
+            "id": "0488fb95d49784ec",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Fachbegriffe/Kausalhaftung.md",
+                "file": "Versicherungsarten/Versicherungen.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "efcaf1c81f47ef69",
+            "id": "e19c782e273df0cd",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Versicherungsarten/Haftpflichtversicherung/Freiwillig/Privathaftpflichtversicherung.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -110,7 +106,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Fachbegriffe/Kausalhaftung.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +122,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Fachbegriffe/Kausalhaftung.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,9 +143,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Fachbegriffe/Kausalhaftung.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -172,11 +164,15 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "624c0df9f57c904a",
+  "active": "e19c782e273df0cd",
   "lastOpenFiles": [
-    "Fachbegriffe/Regress.md",
-    "Fachbegriffe/Überversicherung.md",
+    "Versicherungsarten/Versicherungen.md",
     "Fachbegriffe/Zeitwert.md",
+    "Versicherungsarten/Haftpflichtversicherung/Freiwillig/Untitled.md",
+    "Fachbegriffe/Überversicherung.md",
+    "Versicherungsarten/Haftpflichtversicherung/Freiwillig/Privathaftpflichtversicherung.md",
+    "Fachbegriffe/Kausalhaftung.md",
+    "Fachbegriffe/Regress.md",
     "Fachbegriffe/Unterversicherung.md",
     "Versicherungsarten/Personenversicherungen/Obligatorisch/Erwerbsersatzordnung.md",
     "Versicherungsarten/Personenversicherungen/Obligatorisch/Arbeitslosenversicherung.md",
@@ -185,14 +181,10 @@
     "Versicherungsarten/Personenversicherungen/Freiwillig/Private-Vorsorge-3-säule.md",
     "Versicherungsarten/Personenversicherungen/Freiwillig/Private-Unfallversicherung.md",
     "Bonus-Malus-System.md",
-    "Versicherungsarten/Haftpflichtversicherung/Freiwillig/Privathaftpflichtversicherung.md",
-    "Versicherungsarten/Haftpflichtversicherung/Freiwillig/Untitled.md",
     "Versicherungsarten/Haftpflichtversicherung/Obligatorisch/Motorfahrzeughaftpflichtversicherung.md",
     "Versicherungsarten/Haftpflichtversicherung/Obligatorisch",
     "Versicherungsarten/Haftpflichtversicherung/Haftpflichtversicherung.md",
     "Versicherungsarten/Haftpflichtversicherung/Freiwillig",
-    "Versicherungsarten/Versicherungen.md",
-    "Fachbegriffe/Kausalhaftung.md",
     "Fallbeispiele.md",
     "Untitled.canvas",
     "Fachbegriffe/Neuwert.md",

@@ -5,3 +5,5 @@ Man mat zu hohe prämien bezahlt
 
 Fallbeispiel:
 Gemälde verliert an wert, doch man zahlt immer das gleiche, heisst man zahlt an der Versicherung mehr als man sollte und es wird nur das bezahlt was es im [[Neuwert]] kostet.
+
+Ist stehts mit [[Unterversicherung]] im zusammenhang
