@@ -4,8 +4,11 @@ Die Sachversicherung ist nicht obligatorisch und deckt Schäden an beweglichen S
 ## Fallbeispiel:
 Ein Brand zerstört die Maschinen in einer Fabrik. Die Sachversicherung übernimmt die Kosten für die Wiederbeschaffung der Maschinen.
 
-#### Verschiedene Sachversicherungen
-- [[Teilkaskoversicherung]]
-- [[Vollkaskoversicherung]]
-- [[Motorfahrzeughaftpflichtversicherung]]
-- 
+
+| Versicherungsarten        | Obligatorisch? |
+| ------------------------- | -------------- |
+| [[Diebstahlversicherung]] | NEIN           |
+| [[Teilkaskoversicherung]] | NEIN           |
+| [[Vollkaskoversicherung]] | NEIN           |
+| [[Gebäudeversicherung]]   | JA             |
+| [[Hausratversicherung]]   | JA             |

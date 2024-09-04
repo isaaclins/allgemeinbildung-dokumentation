@@ -2,3 +2,13 @@ Die Haftpflichtversicherung ist nicht obligatorisch, aber sehr empfehlenswert. S
 
 ## Fallbeispiel:
 Ein Kind wirft beim Spielen einen Ball durch das Fenster des Nachbarn. Die [[Haftpflichtversicherung]] übernimmt die Kosten für den Schaden.
+
+
+
+| Versicherungsarten        | Obligatorisch? |
+| ------------------------- | -------------- |
+| [[Diebstahlversicherung]] | NEIN           |
+| [[Teilkaskoversicherung]] | NEIN           |
+| [[Vollkaskoversicherung]] | NEIN           |
+| [[Gebäudeversicherung]]   | JA             |
+| [[Hausratversicherung]]   | JA             |
