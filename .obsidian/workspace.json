@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "0ce5fbfcb23345d8",
+        "id": "fef87d8dff85725d",
         "type": "tabs",
         "children": [
           {
-            "id": "459b6a2e8b1b40b3",
+            "id": "fccc5382dde3dd5f",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -147,10 +147,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "459b6a2e8b1b40b3",
+  "active": "fccc5382dde3dd5f",
   "lastOpenFiles": [
-    "Versicherungsarten/Personenversicherungen/Personenversicherung Allgemein.md",
+    "Versicherungsarten/Haftpflichtversicherung/Motorfahrzeughaftpflichtversicherung.md",
     "Versicherungsarten/Versicherungen.md",
+    "Versicherungsarten/Personenversicherungen/Personenversicherung Allgemein.md",
     "Fallbeispiele.md",
     "Untitled.canvas",
     "Fachbegriffe/Unterversicherung.md",
@@ -182,7 +183,6 @@
     "Versicherungsarten/Sachversicherung/Freiwillig/Diebstahlversicherung - Copy.md",
     "Versicherungsarten/Sachversicherung/Freiwillig/Diebstahlversicherung.md",
     "Versicherungsarten/Sachversicherung/Freiwillig/New Textdokument.txt",
-    "Versicherungsarten/Sachversicherung/Obligatorisch/Gebäudeversicherung.md",
     "Versicherungsarten/Sachversicherung/Obligatorisch",
     "Versicherungsarten/Sachversicherung/Freiwillig",
     "Versicherungsarten/Personenversicherungen/Obligatorisch",

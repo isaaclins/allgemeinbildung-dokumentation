@@ -24,4 +24,22 @@ Es gibt 3 Versicherungsarten:
 
 [[Sachversicherung]] - Sachversicherungen decken Schäden an **materiellen Gütern wie Gebäuden**, Fahrzeugen und Hausrat ab. Beispiele für Sachversicherungen sind Hausratversicherungen, Gebäudeversicherungen und Haftpflichtversicherungen. Die meisten Sachversicherungen sind nicht obligatorisch, aber es kann je nach Situation ratsam sein, eine solche Versicherung abzuschließen.
 
-[[Motorfahrzeughaftpflichtversicherung]] - Die Motorfahrzeughaftpflichtversicherung ist eine obligatorische Versicherung für Fahrzeughalter. Sie deckt Schäden ab, die durch das Fahrzeug an Dritten verursacht werden. Diese Versicherung ist gesetzlich vorgeschrieben und muss von jedem Fahrzeughalter abgeschlossen werden.
+
+
+| Versicherungsarten        | Obligatorisch? |
+| ------------------------- | -------------- |
+| [[Diebstahlversicherung]] | NEIN           |
+| [[Teilkaskoversicherung]] | NEIN           |
+| [[Vollkaskoversicherung]] | NEIN           |
+| [[Gebäudeversicherung]]   | JA             |
+| [[Hausratversicherung]]   | JA             |
+
+[[Haftpflichtversicherung]] - Eine Haftpflichtversicherung schützt den Versicherungsnehmer vor finanziellen Verlusten, die durch Schäden an Dritten verursacht werden. Sie deckt in der Regel Schadensersatzansprüche ab, die aus Verletzungen, Sachschäden oder Vermögensschäden resultieren können. Eine Haftpflichtversicherung ist in den meisten Fällen nicht obligatorisch, aber es wird dringend empfohlen, eine solche Versicherung abzuschließen, um sich vor unvorhergesehenen Kosten zu schützen.
+
+| Versicherungsarten        | Obligatorisch? |
+| ------------------------- | -------------- |
+| [[Diebstahlversicherung]] | NEIN           |
+| [[Teilkaskoversicherung]] | NEIN           |
+| [[Vollkaskoversicherung]] | NEIN           |
+| [[Gebäudeversicherung]]   | JA             |
+| [[Hausratversicherung]]   | JA             |
