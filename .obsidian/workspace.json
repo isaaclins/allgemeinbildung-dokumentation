@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Versicherungsarten/Versicherungen.md",
+                "file": "Fachbegriffe/Bonus-Malus-System.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Versicherungsarten/Versicherungen.md",
+                "file": "Fachbegriffe/Bonus-Malus-System.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Versicherungsarten/Versicherungen.md",
+                "file": "Fachbegriffe/Bonus-Malus-System.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Versicherungsarten/Versicherungen.md"
+                "file": "Fachbegriffe/Bonus-Malus-System.md"
               }
             }
           }
@@ -149,9 +149,9 @@
   },
   "active": "36f11c88845b8b0f",
   "lastOpenFiles": [
+    "Versicherungsarten/Versicherungen.md",
     "Fachbegriffe/Bonus-Malus-System.md",
     "Versicherungsarten/Haftpflichtversicherung/Haftpflichtversicherung.md",
-    "Versicherungsarten/Versicherungen.md",
     "Versicherungsarten/Haftpflichtversicherung/Obligatorisch/Motorfahrzeughaftpflichtversicherung.md",
     "Versicherungsarten/Sachversicherung/Sachversicherung.md",
     "Fachbegriffe/Zeitwert.md",
