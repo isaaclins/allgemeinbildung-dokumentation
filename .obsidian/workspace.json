@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Fachbegriffe/Doppeltversicherung.md",
+                "file": "Fachbegriffe/Zeitwert.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Fachbegriffe/Doppeltversicherung.md",
+                "file": "Fachbegriffe/Zeitwert.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Fachbegriffe/Doppeltversicherung.md",
+                "file": "Fachbegriffe/Zeitwert.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Fachbegriffe/Doppeltversicherung.md"
+                "file": "Fachbegriffe/Zeitwert.md"
               }
             }
           }
@@ -149,6 +149,10 @@
   },
   "active": "e59153c118b9715b",
   "lastOpenFiles": [
+    "Fachbegriffe/Unterversicherung.md",
+    "Fachbegriffe/Überversicherung.md",
+    "Fachbegriffe/Regress.md",
+    "Fachbegriffe/Neuwert.md",
     "Fachbegriffe/Grobfahrlässig.md",
     "Fachbegriffe/Doppeltversicherung.md",
     "Versicherungsarten/Personenversicherungen/Freiwillig/Private-Unfallversicherung.md",
@@ -182,10 +186,6 @@
     "Motorfahrzeug.md",
     "README.md",
     "TEMPLATE.md",
-    "Versicherungsarten/Haftpflichtversicherung/Motorfahrzeughaftpflichtversicherung.md",
-    "Versicherungsarten/Sachversicherung/Sachversicherung.md",
-    "Versicherungsarten/Sachversicherung/Gebäudeversicherung.md",
-    "Versicherungsarten/Personenversicherungen/Personenversicherung Allgemein.md",
     "Untitled.canvas"
   ]
 }
