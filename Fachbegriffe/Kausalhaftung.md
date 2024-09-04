@@ -1,0 +1,1 @@
+Wenn mein Sohn das Fenster vom Nachbarn in die luft springt, bin ich dafür verantwortlich und muss Zahlen, oder MEINE [[Haftpflichtversicherung]]

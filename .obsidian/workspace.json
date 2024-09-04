@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Versicherungsarten/Versicherungen.md",
+                "file": "Versicherungsarten/Haftpflichtversicherung/Motorfahrzeughaftpflichtversicherung.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Versicherungsarten/Versicherungen.md",
+                "file": "Versicherungsarten/Haftpflichtversicherung/Motorfahrzeughaftpflichtversicherung.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Versicherungsarten/Versicherungen.md",
+                "file": "Versicherungsarten/Haftpflichtversicherung/Motorfahrzeughaftpflichtversicherung.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Versicherungsarten/Versicherungen.md"
+                "file": "Versicherungsarten/Haftpflichtversicherung/Motorfahrzeughaftpflichtversicherung.md"
               }
             }
           }
@@ -147,10 +147,13 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "fccc5382dde3dd5f",
+  "active": "f919836425d98d46",
   "lastOpenFiles": [
-    "Versicherungsarten/Haftpflichtversicherung/Motorfahrzeughaftpflichtversicherung.md",
+    "Freiwillig",
+    "Versicherungsarten/Haftpflichtversicherung/Haftpflichtversicherung.md",
     "Versicherungsarten/Versicherungen.md",
+    "Fachbegriffe/Kausalhaftung.md",
+    "Versicherungsarten/Haftpflichtversicherung/Motorfahrzeughaftpflichtversicherung.md",
     "Versicherungsarten/Personenversicherungen/Personenversicherung Allgemein.md",
     "Fallbeispiele.md",
     "Untitled.canvas",
@@ -179,9 +182,6 @@
     "Versicherungsarten/Personenversicherungen/Obligatorisch/Invalidenversicherung.md",
     "Versicherungsarten/Personenversicherungen/Obligatorisch/Unfallversicherung.md",
     "Versicherungsarten/Personenversicherungen/Obligatorisch/Krankenversicherung.md",
-    "Versicherungsarten/Sachversicherung/Freiwillig/e.md",
-    "Versicherungsarten/Sachversicherung/Freiwillig/Diebstahlversicherung - Copy.md",
-    "Versicherungsarten/Sachversicherung/Freiwillig/Diebstahlversicherung.md",
     "Versicherungsarten/Sachversicherung/Freiwillig/New Textdokument.txt",
     "Versicherungsarten/Sachversicherung/Obligatorisch",
     "Versicherungsarten/Sachversicherung/Freiwillig",
