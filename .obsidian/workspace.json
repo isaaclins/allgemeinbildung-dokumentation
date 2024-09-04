@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Fachbegriffe/Zeitwert.md",
+                "file": "Versicherungsarten/Versicherungen.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Fachbegriffe/Zeitwert.md",
+                "file": "Versicherungsarten/Versicherungen.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Fachbegriffe/Zeitwert.md",
+                "file": "Versicherungsarten/Versicherungen.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Fachbegriffe/Zeitwert.md"
+                "file": "Versicherungsarten/Versicherungen.md"
               }
             }
           }
@@ -147,8 +147,9 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "e59153c118b9715b",
+  "active": "f919836425d98d46",
   "lastOpenFiles": [
+    "Fachbegriffe/Zeitwert.md",
     "Fachbegriffe/Unterversicherung.md",
     "Fachbegriffe/Überversicherung.md",
     "Fachbegriffe/Regress.md",
@@ -185,7 +186,6 @@
     "Versicherungsarten/Versicherungen.md",
     "Motorfahrzeug.md",
     "README.md",
-    "TEMPLATE.md",
     "Untitled.canvas"
   ]
 }
