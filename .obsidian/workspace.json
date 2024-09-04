@@ -18,17 +18,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "20a12949224b95c7",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -94,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Versicherungsarten/Sachversicherung/Sachversicherung.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Versicherungsarten/Sachversicherung/Sachversicherung.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -131,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Versicherungsarten/Sachversicherung/Sachversicherung.md"
+              }
             }
           }
         ]
@@ -152,11 +147,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "20a12949224b95c7",
+  "active": "969c3835441e2434",
   "lastOpenFiles": [
+    "Versicherungsarten/Haftpflichtversicherung/Haftpflichtversicherung.md",
     "Versicherungsarten/Sachversicherung/Sachversicherung.md",
     "Versicherungsarten/Versicherungen.md",
-    "Versicherungsarten/Haftpflichtversicherung/Haftpflichtversicherung.md",
     "Fachbegriffe/Zeitwert.md",
     "Versicherungsarten/Personenversicherungen/Personenversicherung Allgemein.md",
     "Versicherungsarten/Haftpflichtversicherung/Freiwillig/Untitled.md",

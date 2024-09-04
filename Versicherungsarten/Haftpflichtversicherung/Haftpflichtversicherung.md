@@ -5,10 +5,7 @@ Ein Kind wirft beim Spielen einen Ball durch das Fenster des Nachbarn. Die [[Haf
 
 
 
-| Versicherungsarten        | Obligatorisch? |
-| ------------------------- | -------------- |
-| [[Diebstahlversicherung]] | NEIN           |
-| [[Teilkaskoversicherung]] | NEIN           |
-| [[Vollkaskoversicherung]] | NEIN           |
-| [[Gebäudeversicherung]]   | JA             |
-| [[Hausratversicherung]]   | JA             |
+| Versicherungsarten                       | Obligatorisch? |
+| ---------------------------------------- | -------------- |
+| [[Motorfahrzeughaftpflichtversicherung]] | JA             |
+| [[Privathaftpflichtversicherung]]        | NEIN           |
