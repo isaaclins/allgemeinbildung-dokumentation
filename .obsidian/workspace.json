@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "28f2fc33369623f3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Zentrale planwirtschaft.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Wirtschaftsformen/Lernziele.md",
+                "file": "Zentrale planwirtschaft.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Wirtschaftsformen/Lernziele.md",
+                "file": "Zentrale planwirtschaft.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Wirtschaftsformen/Lernziele.md"
+                "file": "Zentrale planwirtschaft.md"
               }
             }
           }
@@ -147,8 +160,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "19a88faaf49a357b",
+  "active": "28f2fc33369623f3",
   "lastOpenFiles": [
+    "Wirtschaftsformen/Lernziele.md",
+    "Zentrale planwirtschaft.md",
+    "Wirtschaftsformen/bilder",
     "Versicherungen/Versicherungsarten/Sachversicherung/Obligatorisch/Hausratversicherung.md",
     "Versicherungen/Versicherungsarten/Sachversicherung/Obligatorisch/Gebäudeversicherung.md",
     "Versicherungen/Versicherungsarten/Sachversicherung/Freiwillig/Vollkaskoversicherung.md",
@@ -182,9 +198,6 @@
     "Versicherungen/Fachbegriffe/Zeitwert.md",
     "Versicherungen/Fachbegriffe/Überversicherung.md",
     "Versicherungen/Fachbegriffe/Unterversicherung.md",
-    "Versicherungen/Fachbegriffe/Regress.md",
-    "Versicherungen/Fachbegriffe/Neuwert.md",
-    "Versicherungen/Versicherungsarten",
     "Versicherungsarten/Personenversicherungen/Obligatorisch/New Bitmap-Bild.bmp",
     "Untitled.canvas"
   ]
