@@ -20,18 +20,6 @@
             }
           },
           {
-            "id": "4597827d8f6ea4b7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Versicherungsarten/Haftpflichtversicherung/Motorfahrzeughaftpflichtversicherung.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "be63cd7ee19aede1",
             "type": "leaf",
             "state": {
@@ -114,9 +102,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "7795e22ebf1d75bb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 8
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -244,9 +244,15 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "26f2fd2c396618d4",
+  "active": "e346bc715a21199d",
   "lastOpenFiles": [
+    "conflict-files-obsidian-git.md",
     "Fallbeispiele.md",
+    "Versicherungsarten/Personenversicherungen/Obligatorisch/Berufsunfallversicherung.md",
+    "Versicherungsarten/Haftpflichtversicherung/Obligatorisch/Motorfahrzeughaftpflichtversicherung.md",
+    "Versicherungsarten/Haftpflichtversicherung/Freiwillig/Privathaftpflichtversicherung.md",
+    "Fachbegriffe/Kausalhaftung.md",
+    "Fachbegriffe/Bonus-Malus-System.md",
     "Versicherungsarten/Personenversicherungen/Freiwillig/Private-Unfallversicherung.md",
     "Versicherungsarten/Personenversicherungen/Freiwillig/New Microsoft PowerPoint Presentation.pptx",
     "Versicherungsarten/Personenversicherungen/Freiwillig/Private-Vorsorge-3-säule.md",
@@ -277,12 +283,6 @@
     "Versicherungsarten/Versicherungen.md",
     "Motorfahrzeug.md",
     "README.md",
-    "TEMPLATE.md",
-    "Versicherungsarten/Haftpflichtversicherung/Motorfahrzeughaftpflichtversicherung.md",
-    "Versicherungsarten/Sachversicherung/Sachversicherung.md",
-    "Versicherungsarten/Sachversicherung/Gebäudeversicherung.md",
-    "Fachbegriffe/Doppeltversicherung.md",
-    "Versicherungsarten/Personenversicherungen/Personenversicherung Allgemein.md",
     "Untitled.canvas"
   ]
 }
