@@ -1,0 +1,1 @@
+Sie erläutern die grundideen, die hinter den beiden Wirtschaftsformen 

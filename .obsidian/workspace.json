@@ -8,115 +8,14 @@
         "type": "tabs",
         "children": [
           {
-            "id": "0fa751d21312ac76",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Fachbegriffe/Doppeltversicherung.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "be63cd7ee19aede1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Versicherungsarten/Personenversicherungen/Personenversicherung Allgemein.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "5ea26049f9fed877",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Fachbegriffe/Neuwert.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "cfd79a728b339db6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Fachbegriffe/Zeitwert.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "32fc5ea6a51160b6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Fachbegriffe/Unterversicherung.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "39d0b575e177959f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Fachbegriffe/Doppeltversicherung.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e346bc715a21199d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Fallbeispiele.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "26f2fd2c396618d4",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Fallbeispiele.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "7795e22ebf1d75bb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "conflict-files-obsidian-git.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 6
+        ]
       }
     ],
     "direction": "vertical"
@@ -182,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Fallbeispiele.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -199,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Fallbeispiele.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -244,45 +141,45 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "e346bc715a21199d",
+  "active": "f919836425d98d46",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
-    "Fallbeispiele.md",
-    "Versicherungsarten/Personenversicherungen/Obligatorisch/Berufsunfallversicherung.md",
-    "Versicherungsarten/Haftpflichtversicherung/Obligatorisch/Motorfahrzeughaftpflichtversicherung.md",
-    "Versicherungsarten/Haftpflichtversicherung/Freiwillig/Privathaftpflichtversicherung.md",
-    "Fachbegriffe/Kausalhaftung.md",
-    "Fachbegriffe/Bonus-Malus-System.md",
-    "Versicherungsarten/Personenversicherungen/Freiwillig/Private-Unfallversicherung.md",
-    "Versicherungsarten/Personenversicherungen/Freiwillig/New Microsoft PowerPoint Presentation.pptx",
-    "Versicherungsarten/Personenversicherungen/Freiwillig/Private-Vorsorge-3-säule.md",
-    "Versicherungsarten/Personenversicherungen/Freiwillig/Private-Vorsorge-3-säule",
-    "Versicherungsarten/Personenversicherungen/Freiwillig/New Microsoft Access Database.accdb",
-    "Versicherungsarten/Personenversicherungen/Obligatorisch/Pensionskasse.md",
+    "Wirtschaftsformen/Lernziele.md",
+    "Wirtschaftsformen",
+    "Versicherung/Fallbeispiele.md",
+    "Versicherung/Fachbegriffe/Regress.md",
+    "Versicherung/Fachbegriffe/Zeitwert.md",
+    "Versicherung/Fachbegriffe/Überversicherung.md",
+    "Versicherung/Fachbegriffe/Unterversicherung.md",
+    "Versicherung/Fachbegriffe/Neuwert.md",
+    "Versicherung/Fachbegriffe/Kausalhaftung.md",
+    "Versicherung/Fachbegriffe/Grobfahrlässig.md",
+    "Versicherung/Fachbegriffe/Doppeltversicherung.md",
+    "Versicherung/Fachbegriffe/Bonus-Malus-System.md",
+    "Versicherung/Fachbegriffe",
+    "Versicherung/Versicherungsarten/Sachversicherung/Freiwillig/Diebstahlversicherung.md",
+    "Versicherung/Versicherungsarten/Sachversicherung/Obligatorisch/Hausratversicherung.md",
+    "Versicherung/Versicherungsarten/Personenversicherungen/Freiwillig/Private-Vorsorge-3-säule.md",
+    "Versicherung/Versicherungsarten/Sachversicherung/Obligatorisch/Gebäudeversicherung.md",
+    "Versicherung/Versicherungsarten/Personenversicherungen/Freiwillig/Private-Unfallversicherung.md",
+    "Versicherung/Versicherungsarten/Sachversicherung/Freiwillig/Vollkaskoversicherung.md",
+    "Versicherung/Versicherungsarten/Sachversicherung/Freiwillig/Teilkaskoversicherung.md",
+    "Versicherung/Versicherungsarten/Personenversicherungen/Obligatorisch/Unfallversicherung.md",
+    "Versicherung/Versicherungsarten/Personenversicherungen/Obligatorisch/Pensionskasse.md",
+    "Versicherung/Versicherungsarten/Personenversicherungen/Obligatorisch/Invalidenversicherung.md",
+    "Versicherung/Versicherungsarten/Personenversicherungen/Obligatorisch/Krankenversicherung.md",
+    "Versicherung/Versicherungsarten/Personenversicherungen/Obligatorisch/Erwerbsersatzordnung.md",
+    "Versicherung/Versicherungsarten/Personenversicherungen/Obligatorisch/Berufsunfallversicherung.md",
+    "Versicherung/Versicherungsarten/Personenversicherungen/Obligatorisch/Arbeitslosenversicherung.md",
+    "Versicherung/Versicherungsarten/Personenversicherungen/Obligatorisch/Alters-und-Hinterlassenenversicherung.md",
+    "Versicherung/Versicherungsarten/Sachversicherung/Obligatorisch",
+    "Versicherung/Versicherungsarten/Personenversicherungen/Freiwillig",
+    "Versicherung/Versicherungsarten/Sachversicherung/Freiwillig",
+    "Versicherung/Versicherungsarten/Personenversicherungen/Obligatorisch",
+    "Versicherung/Versicherungsarten/Haftpflichtversicherung/Obligatorisch",
+    "Versicherung/Versicherungsarten/Haftpflichtversicherung/Freiwillig",
+    "Versicherung/Versicherungsarten/Sachversicherung",
+    "Versicherung/Versicherungsarten/Personenversicherungen",
     "Versicherungsarten/Personenversicherungen/Obligatorisch/New Bitmap-Bild.bmp",
-    "Versicherungsarten/Personenversicherungen/Obligatorisch/Alters-und-Hinterlassenenversicherung.md",
-    "Versicherungsarten/Personenversicherungen/Obligatorisch/New Textdokument.txt",
-    "Versicherungsarten/Personenversicherungen/Obligatorisch/Erwerbsersatzordnung.md",
-    "Versicherungsarten/Personenversicherungen/Obligatorisch/Erwerbsersatzordnung",
-    "Versicherungsarten/Personenversicherungen/Obligatorisch/Arbeitslosenversicherung.md",
-    "Versicherungsarten/Personenversicherungen/Obligatorisch/Invalidenversicherung.md",
-    "Versicherungsarten/Personenversicherungen/Obligatorisch/Unfallversicherung.md",
-    "Versicherungsarten/Personenversicherungen/Obligatorisch/Krankenversicherung.md",
-    "Versicherungsarten/Sachversicherung/Freiwillig/e.md",
-    "Versicherungsarten/Sachversicherung/Freiwillig/Diebstahlversicherung - Copy.md",
-    "Versicherungsarten/Sachversicherung/Freiwillig/Diebstahlversicherung.md",
-    "Versicherungsarten/Sachversicherung/Freiwillig/New Textdokument.txt",
-    "Versicherungsarten/Sachversicherung/Obligatorisch/Gebäudeversicherung.md",
-    "Versicherungsarten/Sachversicherung/Obligatorisch/Hausratversicherung.md",
-    "Versicherungsarten/Sachversicherung/Freiwillig/Vollkaskoversicherung.md",
-    "Versicherungsarten/Sachversicherung/Freiwillig/Teilkaskoversicherung.md",
-    "Versicherungsarten/Sachversicherung/Obligatorisch",
-    "Versicherungsarten/Sachversicherung/Freiwillig",
-    "Versicherungsarten/Personenversicherungen/Obligatorisch",
-    "Versicherungsarten/Personenversicherungen/Freiwillig",
-    "Versicherungsarten/Versicherungen.md",
-    "Motorfahrzeug.md",
-    "README.md",
     "Untitled.canvas"
   ]
 }
