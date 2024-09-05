@@ -1,3 +1,4 @@
+Es wird alles von der Bevölkerung verwaltet
 - **Marktbasierte Entscheidungen:** Angebot und Nachfrage bestimmen die Produktion und Preise.
 
 - **Wettbewerb:** Unternehmen konkurrieren miteinander, was Innovation und Effizienz fördert.
