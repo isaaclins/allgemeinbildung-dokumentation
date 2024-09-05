@@ -14,7 +14,6 @@ Es wird alles von der Bevölkerung verwaltet
 
 - **Schweiz:** Ein weiteres Beispiel für eine freie Marktwirtschaft mit minimalen staatlichen Eingriffen und starkem Wettbewerb.
 
-
 ## Probleme
 1. **Ungleichheit:** In einer freien Marktwirtschaft kann es zu großen Einkommens- und Vermögensunterschieden kommen, da der Markt nicht unbedingt soziale Gerechtigkeit fördert.
 2. **Marktversagen:** Es kann zu Situationen kommen, in denen der Markt nicht effizient funktioniert, wie bei Monopolen oder externen Effekten (z.B. Umweltverschmutzung).

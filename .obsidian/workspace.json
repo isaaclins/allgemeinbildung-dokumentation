@@ -44,7 +44,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Wirtschaftsformen/Zentrale planwirtschaft.md",
+                "file": "Wirtschaftsformen/Freie Marktwirtschaft.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Wirtschaftsformen/Zentrale planwirtschaft.md",
+                "file": "Wirtschaftsformen/Freie Marktwirtschaft.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Wirtschaftsformen/Zentrale planwirtschaft.md"
+                "file": "Wirtschaftsformen/Freie Marktwirtschaft.md"
               }
             }
           }
@@ -172,10 +172,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "28f2fc33369623f3",
+  "active": "55f7cf5f9e4c44ca",
   "lastOpenFiles": [
-    "Wirtschaftsformen/Freie Marktwirtschaft.md",
     "Wirtschaftsformen/Zentrale planwirtschaft.md",
+    "Wirtschaftsformen/Freie Marktwirtschaft.md",
     "Wirtschaftsformen/Lernziele.md",
     "Wirtschaftsformen/bilder",
     "Versicherungen/Versicherungsarten/Sachversicherung/Obligatorisch/Hausratversicherung.md",
