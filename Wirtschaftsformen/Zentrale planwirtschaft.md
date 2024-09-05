@@ -14,3 +14,7 @@ Es wird alles vom Staat verwaltet.
 
 - **Kuba:** Obwohl es in den letzten Jahren einige marktwirtschaftliche Reformen gab, bleibt die Wirtschaft weitgehend staatlich geplant.
 
+## Probleme
+1. **Ineffizienz:** Da der Staat die gesamte Wirtschaft plant, kann es zu Fehlallokationen von Ressourcen kommen. Dies führt oft zu Überproduktion oder Mangel an bestimmten Gütern.
+2. **Mangel an Innovation:** Ohne Wettbewerb haben Unternehmen wenig Anreiz, neue Technologien oder effizientere Produktionsmethoden zu entwickeln.
+
