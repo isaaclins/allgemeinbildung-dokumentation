@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "8933cd64cf407b76",
+        "id": "0eae73be2bc91b2a",
         "type": "tabs",
         "children": [
           {
-            "id": "26f2fd2c396618d4",
+            "id": "19a88faaf49a357b",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -118,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Fallbeispiele.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -141,8 +139,9 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "f919836425d98d46",
+  "active": "19a88faaf49a357b",
   "lastOpenFiles": [
+    "Fallbeispiele.md",
     "Wirtschaftsformen/Lernziele.md",
     "Wirtschaftsformen",
     "Versicherung/Fallbeispiele.md",
@@ -170,7 +169,6 @@
     "Versicherung/Versicherungsarten/Personenversicherungen/Obligatorisch/Erwerbsersatzordnung.md",
     "Versicherung/Versicherungsarten/Personenversicherungen/Obligatorisch/Berufsunfallversicherung.md",
     "Versicherung/Versicherungsarten/Personenversicherungen/Obligatorisch/Arbeitslosenversicherung.md",
-    "Versicherung/Versicherungsarten/Personenversicherungen/Obligatorisch/Alters-und-Hinterlassenenversicherung.md",
     "Versicherung/Versicherungsarten/Sachversicherung/Obligatorisch",
     "Versicherung/Versicherungsarten/Personenversicherungen/Freiwillig",
     "Versicherung/Versicherungsarten/Sachversicherung/Freiwillig",
