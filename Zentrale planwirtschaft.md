@@ -1,1 +1,1 @@
-Es wird alles vom Staat 
+Es wird alles vom Staat verwaltet

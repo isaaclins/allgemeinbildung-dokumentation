@@ -30,9 +30,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "55f7cf5f9e4c44ca",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Freie Marktwirtschaft.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -98,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Zentrale planwirtschaft.md",
+                "file": "Freie Marktwirtschaft.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Zentrale planwirtschaft.md",
+                "file": "Freie Marktwirtschaft.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Zentrale planwirtschaft.md"
+                "file": "Freie Marktwirtschaft.md"
               }
             }
           }
@@ -160,10 +172,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "28f2fc33369623f3",
+  "active": "55f7cf5f9e4c44ca",
   "lastOpenFiles": [
-    "Wirtschaftsformen/Lernziele.md",
     "Zentrale planwirtschaft.md",
+    "Freie Marktwirtschaft.md",
+    "Wirtschaftsformen/Lernziele.md",
     "Wirtschaftsformen/bilder",
     "Versicherungen/Versicherungsarten/Sachversicherung/Obligatorisch/Hausratversicherung.md",
     "Versicherungen/Versicherungsarten/Sachversicherung/Obligatorisch/Gebäudeversicherung.md",
@@ -197,7 +210,6 @@
     "Versicherungen/Versicherungsarten/Haftpflichtversicherung",
     "Versicherungen/Fachbegriffe/Zeitwert.md",
     "Versicherungen/Fachbegriffe/Überversicherung.md",
-    "Versicherungen/Fachbegriffe/Unterversicherung.md",
     "Versicherungsarten/Personenversicherungen/Obligatorisch/New Bitmap-Bild.bmp",
     "Untitled.canvas"
   ]
