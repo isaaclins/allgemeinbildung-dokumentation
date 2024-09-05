@@ -9,3 +9,8 @@ Es wird alles vom Staat verwaltet.
 - **Gleichheit:** Ziel ist es, soziale Gleichheit und eine gerechte Verteilung von Ressourcen zu erreichen.
 
 - **Staatseigentum:** Produktionsmittel wie Fabriken und Land sind im Besitz des Staates.
+## Beispielländer
+- **Nordkorea:** Ein Beispiel für eine stark zentralisierte Planwirtschaft, in der der Staat die gesamte Wirtschaft kontrolliert.
+
+- **Kuba:** Obwohl es in den letzten Jahren einige marktwirtschaftliche Reformen gab, bleibt die Wirtschaft weitgehend staatlich geplant.
+
