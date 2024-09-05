@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Zentrale planwirtschaft.md",
+                "file": "Wirtschaftsformen/Zentrale planwirtschaft.md",
                 "mode": "source",
                 "source": false
               }
@@ -37,14 +37,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Freie Marktwirtschaft.md",
+                "file": "Wirtschaftsformen/Freie Marktwirtschaft.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Freie Marktwirtschaft.md",
+                "file": "Wirtschaftsformen/Zentrale planwirtschaft.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Freie Marktwirtschaft.md",
+                "file": "Wirtschaftsformen/Zentrale planwirtschaft.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Freie Marktwirtschaft.md"
+                "file": "Wirtschaftsformen/Zentrale planwirtschaft.md"
               }
             }
           }
@@ -172,10 +172,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "55f7cf5f9e4c44ca",
+  "active": "28f2fc33369623f3",
   "lastOpenFiles": [
-    "Zentrale planwirtschaft.md",
-    "Freie Marktwirtschaft.md",
+    "Wirtschaftsformen/Freie Marktwirtschaft.md",
+    "Wirtschaftsformen/Zentrale planwirtschaft.md",
     "Wirtschaftsformen/Lernziele.md",
     "Wirtschaftsformen/bilder",
     "Versicherungen/Versicherungsarten/Sachversicherung/Obligatorisch/Hausratversicherung.md",
