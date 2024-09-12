@@ -50,9 +50,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "de5acf274632afd7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Wirtschaftsformen/Freie Marktwirtschaft.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -118,6 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Wirtschaftsformen/Freie Marktwirtschaft.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,6 +147,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Wirtschaftsformen/Freie Marktwirtschaft.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -155,7 +169,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Wirtschaftsformen/Freie Marktwirtschaft.md"
+              }
             }
           }
         ]
@@ -176,11 +192,12 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "b00ae1d895ebb42c",
+  "active": "de5acf274632afd7",
   "lastOpenFiles": [
+    "Wirtschaftsformen/Bilder/Verschiedene Wirtschaftsformen4.png",
+    "Wirtschaftsformen/Wirtschaftsformen.md",
     "Wirtschaftsformen/Bilder/Verschiedene Wirtschaftsformen3.png",
     "Wirtschaftsformen/Bilder/Auftrag 3 Freie Marktwirtschaft.png",
-    "Wirtschaftsformen/Wirtschaftsformen.md",
     "Wirtschaftsformen/Bilder/Verschiedene Wirtschaftsformen1.png",
     "Wirtschaftsformen/Zentrale Planwirtschaft.md",
     "Versicherungen/Versicherungsarten/Versicherungen.md",
