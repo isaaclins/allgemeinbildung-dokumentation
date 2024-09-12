@@ -4,43 +4,34 @@
     "type": "split",
     "children": [
       {
-        "id": "0eae73be2bc91b2a",
+        "id": "9d78cb89acfc1b95",
         "type": "tabs",
         "children": [
           {
-            "id": "19a88faaf49a357b",
+            "id": "006c2ae8fe7590ae",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Wirtschaftsformen/Lernziele.md",
+                "file": "Wirtschaftsformen/Wirtschaftsformen.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "28f2fc33369623f3",
+            "id": "29cf6756731c290a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Wirtschaftsformen/Soziale Marktwirtschaft.md",
+                "file": "Versicherungen/Versicherungsarten/Versicherungen.md",
                 "mode": "source",
                 "source": false
               }
-            }
-          },
-          {
-            "id": "55f7cf5f9e4c44ca",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -106,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Wirtschaftsformen/Soziale Marktwirtschaft.md",
+                "file": "Wirtschaftsformen/Wirtschaftsformen.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Wirtschaftsformen/Soziale Marktwirtschaft.md",
+                "file": "Wirtschaftsformen/Wirtschaftsformen.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Wirtschaftsformen/Soziale Marktwirtschaft.md"
+                "file": "Wirtschaftsformen/Wirtschaftsformen.md"
               }
             }
           }
@@ -168,10 +159,15 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "28f2fc33369623f3",
+  "active": "006c2ae8fe7590ae",
   "lastOpenFiles": [
-    "Wirtschaftsformen/Freie Marktwirtschaft.md",
+    "Wirtschaftsformen/Zentrale Planwirtschaft.md",
+    "Versicherungen/Versicherungsarten/Versicherungen.md",
+    "Wirtschaftsformen/Wirtschaftsformen.md",
+    "Wirtschaftsformen/Bilder/Verschiedene Wirtschaftsformen2.png",
+    "Wirtschaftsformen/Bilder/Verschiedene Wirtschaftsformen1.png",
     "Wirtschaftsformen/Soziale Marktwirtschaft.md",
+    "Wirtschaftsformen/Freie Marktwirtschaft.md",
     "Wirtschaftsformen/Zentrale planwirtschaft.md",
     "Wirtschaftsformen/Lernziele.md",
     "Wirtschaftsformen/bilder",
@@ -199,13 +195,10 @@
     "Versicherungen/Versicherungsarten/Personenversicherungen/Personenversicherung Allgemein.md",
     "Versicherungen/Versicherungsarten/Personenversicherungen/Freiwillig",
     "Versicherungen/Versicherungsarten/Haftpflichtversicherung/Obligatorisch",
-    "Versicherungen/Versicherungsarten/Haftpflichtversicherung/Haftpflichtversicherung.md",
     "Versicherungen/Versicherungsarten/Haftpflichtversicherung/Freiwillig",
-    "Versicherungen/Versicherungsarten/Versicherungen.md",
     "Versicherungen/Versicherungsarten/Sachversicherung",
     "Versicherungen/Versicherungsarten/Personenversicherungen",
     "Versicherungen/Versicherungsarten/Haftpflichtversicherung",
-    "Versicherungen/Fachbegriffe/Zeitwert.md",
     "Versicherungsarten/Personenversicherungen/Obligatorisch/New Bitmap-Bild.bmp",
     "Untitled.canvas"
   ]
