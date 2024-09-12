@@ -30,8 +30,29 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "b00ae1d895ebb42c",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          },
+          {
+            "id": "56feb366135fa7a3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Wirtschaftsformen/Wirtschaftsformen.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -97,7 +118,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Wirtschaftsformen/Wirtschaftsformen.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +134,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Wirtschaftsformen/Wirtschaftsformen.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,9 +155,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Wirtschaftsformen/Wirtschaftsformen.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -159,13 +176,13 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "006c2ae8fe7590ae",
+  "active": "b00ae1d895ebb42c",
   "lastOpenFiles": [
+    "Wirtschaftsformen/Wirtschaftsformen.md",
+    "Wirtschaftsformen/Bilder/Verschiedene Wirtschaftsformen1.png",
     "Wirtschaftsformen/Zentrale Planwirtschaft.md",
     "Versicherungen/Versicherungsarten/Versicherungen.md",
-    "Wirtschaftsformen/Wirtschaftsformen.md",
     "Wirtschaftsformen/Bilder/Verschiedene Wirtschaftsformen2.png",
-    "Wirtschaftsformen/Bilder/Verschiedene Wirtschaftsformen1.png",
     "Wirtschaftsformen/Soziale Marktwirtschaft.md",
     "Wirtschaftsformen/Freie Marktwirtschaft.md",
     "Wirtschaftsformen/Zentrale planwirtschaft.md",
@@ -192,7 +209,6 @@
     "Versicherungen/Versicherungsarten/Sachversicherung/Obligatorisch",
     "Versicherungen/Versicherungsarten/Sachversicherung/Freiwillig",
     "Versicherungen/Versicherungsarten/Personenversicherungen/Obligatorisch",
-    "Versicherungen/Versicherungsarten/Personenversicherungen/Personenversicherung Allgemein.md",
     "Versicherungen/Versicherungsarten/Personenversicherungen/Freiwillig",
     "Versicherungen/Versicherungsarten/Haftpflichtversicherung/Obligatorisch",
     "Versicherungen/Versicherungsarten/Haftpflichtversicherung/Freiwillig",

@@ -3,3 +3,6 @@ Diese Versicherung ist obligatorisch für alle Fahrzeughalter und deckt Schäden
 
 ## Fallbeispiel:
 Ein Autofahrer verursacht einen Unfall und beschädigt ein anderes Fahrzeug. Die Motorfahrzeughaftpflichtversicherung übernimmt die Reparaturkosten des anderen Fahrzeugs.
+
+### Bonus Malous System:
+-> [[Bonus-Malus-System]]
