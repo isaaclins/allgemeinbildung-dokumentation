@@ -12,9 +12,16 @@ Es wird alles von der Bevölkerung verwaltet
 ## Beispielländer
 
 - **Vereinigte Staaten:** Ein klassisches Beispiel für eine freie Marktwirtschaft, in der Angebot und Nachfrage die Wirtschaft bestimmen.
-
-- **Schweiz:** Ein weiteres Beispiel für eine freie Marktwirtschaft mit minimalen staatlichen Eingriffen und starkem Wettbewerb.
-
+## Die Rollen in der Marktwirtschaft
+- Rolle des Staates - in Wirtschaft? 
+  
+- Rolle des Staates - allgemein? 
+  
+- Vorteile der Freien Marktwirtschaft?
+  Dadurch wird eine Marktwirtschaftlichen Konkurrenz gefördert und somit wächst das Angebot etc. 
+- Nachteile der Freien Marktwirtschaft?
+  Jeder kann machen was er will. Wenn jemand Krank ist oder nicht Arbeiten kann ist das dem Staat egal. Es braucht auch viel Moral. Weitere Nachteile/Probleme ist und Probleme.
+- Staat, der sich an diesem "Model" teilweise orientiert?
 ## Probleme
 1. **Ungleichheit:** In einer freien Marktwirtschaft kann es zu großen Einkommens- und Vermögensunterschieden kommen, da der Markt nicht unbedingt soziale Gerechtigkeit fördert.
 2. **Marktversagen:** Es kann zu Situationen kommen, in denen der Markt nicht effizient funktioniert, wie bei Monopolen oder externen Effekten (z.B. Umweltverschmutzung).

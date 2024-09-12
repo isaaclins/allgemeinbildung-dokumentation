@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Wirtschaftsformen/Zentrale planwirtschaft.md",
+                "file": "Wirtschaftsformen/Soziale Marktwirtschaft.md",
                 "mode": "source",
                 "source": false
               }
@@ -40,7 +40,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -106,6 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Wirtschaftsformen/Soziale Marktwirtschaft.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,6 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Wirtschaftsformen/Soziale Marktwirtschaft.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +145,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Wirtschaftsformen/Soziale Marktwirtschaft.md"
+              }
             }
           }
         ]
@@ -164,9 +168,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "55f7cf5f9e4c44ca",
+  "active": "28f2fc33369623f3",
   "lastOpenFiles": [
     "Wirtschaftsformen/Freie Marktwirtschaft.md",
+    "Wirtschaftsformen/Soziale Marktwirtschaft.md",
     "Wirtschaftsformen/Zentrale planwirtschaft.md",
     "Wirtschaftsformen/Lernziele.md",
     "Wirtschaftsformen/bilder",
@@ -201,7 +206,6 @@
     "Versicherungen/Versicherungsarten/Personenversicherungen",
     "Versicherungen/Versicherungsarten/Haftpflichtversicherung",
     "Versicherungen/Fachbegriffe/Zeitwert.md",
-    "Versicherungen/Fachbegriffe/Überversicherung.md",
     "Versicherungsarten/Personenversicherungen/Obligatorisch/New Bitmap-Bild.bmp",
     "Untitled.canvas"
   ]
