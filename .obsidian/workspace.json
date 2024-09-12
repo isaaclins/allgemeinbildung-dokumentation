@@ -35,12 +35,8 @@
             "id": "55f7cf5f9e4c44ca",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Wirtschaftsformen/Freie Marktwirtschaft.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ],
@@ -110,7 +106,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Wirtschaftsformen/Freie Marktwirtschaft.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +122,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Wirtschaftsformen/Freie Marktwirtschaft.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,9 +143,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Wirtschaftsformen/Freie Marktwirtschaft.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -174,8 +166,8 @@
   },
   "active": "55f7cf5f9e4c44ca",
   "lastOpenFiles": [
-    "Wirtschaftsformen/Zentrale planwirtschaft.md",
     "Wirtschaftsformen/Freie Marktwirtschaft.md",
+    "Wirtschaftsformen/Zentrale planwirtschaft.md",
     "Wirtschaftsformen/Lernziele.md",
     "Wirtschaftsformen/bilder",
     "Versicherungen/Versicherungsarten/Sachversicherung/Obligatorisch/Hausratversicherung.md",

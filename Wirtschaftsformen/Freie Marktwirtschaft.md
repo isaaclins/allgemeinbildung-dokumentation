@@ -1,4 +1,4 @@
-A
+Auch genannt Liberalismus Gründer (Evan Smith)
 Es wird alles von der Bevölkerung verwaltet
 - **Marktbasierte Entscheidungen:** Angebot und Nachfrage bestimmen die Produktion und Preise.
 
