@@ -1,3 +1,4 @@
+A
 Es wird alles von der Bevölkerung verwaltet
 - **Marktbasierte Entscheidungen:** Angebot und Nachfrage bestimmen die Produktion und Preise.
 
