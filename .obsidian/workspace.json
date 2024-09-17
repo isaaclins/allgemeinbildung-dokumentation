@@ -4,15 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "0eae73be2bc91b2a",
+        "id": "7e932bdde1da74c8",
         "type": "tabs",
         "children": [
           {
-            "id": "55f7cf5f9e4c44ca",
+            "id": "2885c7fe2b683900",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "image",
+              "state": {
+                "file": "Wirtschaftsformen/Bilder/Verschiedene Wirtschaftsformen4.png"
+              }
             }
           }
         ]
@@ -81,6 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Wirtschaftsformen/Bilder/Verschiedene Wirtschaftsformen4.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +100,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Wirtschaftsformen/Bilder/Verschiedene Wirtschaftsformen4.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +122,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Wirtschaftsformen/Bilder/Verschiedene Wirtschaftsformen4.png"
+              }
             }
           }
         ]
@@ -139,13 +145,13 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "55f7cf5f9e4c44ca",
+  "active": "2885c7fe2b683900",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
-    "Wirtschaftsformen/Bilder/Verschiedene Wirtschaftsformen4.png",
     "Wirtschaftsformen/Bilder/Verschiedene Wirtschaftsformen3.png",
     "Wirtschaftsformen/Bilder/Verschiedene Wirtschaftsformen2.png",
     "Wirtschaftsformen/Bilder/Verschiedene Wirtschaftsformen1.png",
+    "conflict-files-obsidian-git.md",
+    "Wirtschaftsformen/Bilder/Verschiedene Wirtschaftsformen4.png",
     "Wirtschaftsformen/Zentrale planwirtschaft.md",
     "Wirtschaftsformen/Wirtschaftsformen.md",
     "Wirtschaftsformen/Soziale Marktwirtschaft.md",
@@ -176,7 +182,6 @@
     "Versicherungen/Versicherungsarten/Haftpflichtversicherung/Obligatorisch",
     "Versicherungen/Versicherungsarten/Haftpflichtversicherung/Haftpflichtversicherung.md",
     "Versicherungen/Versicherungsarten/Haftpflichtversicherung/Freiwillig",
-    "Versicherungen/Versicherungsarten/Personenversicherungen/Personenversicherung Allgemein.md",
     "Versicherungen/Versicherungsarten/Personenversicherungen/Obligatorisch",
     "Versicherungen/Versicherungsarten/Personenversicherungen/Freiwillig",
     "Versicherungen/Versicherungsarten/Sachversicherung",
