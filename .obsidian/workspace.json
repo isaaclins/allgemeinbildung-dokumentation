@@ -11,10 +11,8 @@
             "id": "2885c7fe2b683900",
             "type": "leaf",
             "state": {
-              "type": "image",
-              "state": {
-                "file": "Wirtschaftsformen/Bilder/Verschiedene Wirtschaftsformen4.png"
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -83,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Wirtschaftsformen/Bilder/Verschiedene Wirtschaftsformen4.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Wirtschaftsformen/Bilder/Verschiedene Wirtschaftsformen4.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -122,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Wirtschaftsformen/Bilder/Verschiedene Wirtschaftsformen4.png"
-              }
+              "state": {}
             }
           }
         ]
@@ -147,11 +141,16 @@
   },
   "active": "2885c7fe2b683900",
   "lastOpenFiles": [
+    "Versicherungen/Versicherungsarten/Versicherungen.md",
+    "Versicherungen/Versicherungsarten/Sachversicherung/Sachversicherung.md",
+    "Versicherungen/Versicherungsarten/Sachversicherung/Freiwillig/Diebstahlversicherung.md",
+    "Versicherungen/Versicherungsarten/Personenversicherungen/Obligatorisch/Unfallversicherung.md",
+    "Versicherungen/Versicherungsarten/Personenversicherungen/Obligatorisch/Berufsunfallversicherung.md",
+    "Wirtschaftsformen/Bilder/Verschiedene Wirtschaftsformen4.png",
     "Wirtschaftsformen/Bilder/Verschiedene Wirtschaftsformen3.png",
     "Wirtschaftsformen/Bilder/Verschiedene Wirtschaftsformen2.png",
     "Wirtschaftsformen/Bilder/Verschiedene Wirtschaftsformen1.png",
     "conflict-files-obsidian-git.md",
-    "Wirtschaftsformen/Bilder/Verschiedene Wirtschaftsformen4.png",
     "Wirtschaftsformen/Zentrale planwirtschaft.md",
     "Wirtschaftsformen/Wirtschaftsformen.md",
     "Wirtschaftsformen/Soziale Marktwirtschaft.md",
@@ -163,20 +162,16 @@
     "Versicherungen/Versicherungsarten/Sachversicherung/Obligatorisch/Gebäudeversicherung.md",
     "Versicherungen/Versicherungsarten/Sachversicherung/Freiwillig/Vollkaskoversicherung.md",
     "Versicherungen/Versicherungsarten/Sachversicherung/Freiwillig/Teilkaskoversicherung.md",
-    "Versicherungen/Versicherungsarten/Sachversicherung/Freiwillig/Diebstahlversicherung.md",
     "Versicherungen/Versicherungsarten/Haftpflichtversicherung/Obligatorisch/Motorfahrzeughaftpflichtversicherung.md",
     "Versicherungen/Versicherungsarten/Haftpflichtversicherung/Freiwillig/Privathaftpflichtversicherung.md",
-    "Versicherungen/Versicherungsarten/Personenversicherungen/Obligatorisch/Unfallversicherung.md",
     "Versicherungen/Versicherungsarten/Personenversicherungen/Obligatorisch/Pensionskasse.md",
     "Versicherungen/Versicherungsarten/Personenversicherungen/Obligatorisch/Krankenversicherung.md",
     "Versicherungen/Versicherungsarten/Personenversicherungen/Obligatorisch/Invalidenversicherung.md",
     "Versicherungen/Versicherungsarten/Personenversicherungen/Obligatorisch/Erwerbsersatzordnung.md",
-    "Versicherungen/Versicherungsarten/Personenversicherungen/Obligatorisch/Berufsunfallversicherung.md",
     "Versicherungen/Versicherungsarten/Personenversicherungen/Obligatorisch/Arbeitslosenversicherung.md",
     "Versicherungen/Versicherungsarten/Personenversicherungen/Obligatorisch/Alters-und-Hinterlassenenversicherung.md",
     "Versicherungen/Versicherungsarten/Personenversicherungen/Freiwillig/Private-Vorsorge-3-säule.md",
     "Versicherungen/Versicherungsarten/Personenversicherungen/Freiwillig/Private-Unfallversicherung.md",
-    "Versicherungen/Versicherungsarten/Sachversicherung/Sachversicherung.md",
     "Versicherungen/Versicherungsarten/Sachversicherung/Obligatorisch",
     "Versicherungen/Versicherungsarten/Sachversicherung/Freiwillig",
     "Versicherungen/Versicherungsarten/Haftpflichtversicherung/Obligatorisch",
