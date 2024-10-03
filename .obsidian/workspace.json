@@ -8,19 +8,19 @@
         "type": "tabs",
         "children": [
           {
-            "id": "44a5e8291edb600e",
+            "id": "2885c7fe2b683900",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Wirtschaftsformen/Wirtschaftsformen.md",
+                "file": "Wirtschaftsformen/Soziale Marktwirtschaft.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "112f2b651d1b42f0",
+            "id": "2cc919ed47913c0c",
             "type": "leaf",
             "state": {
               "type": "graph",
@@ -152,31 +152,31 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "112f2b651d1b42f0",
+  "active": "2cc919ed47913c0c",
   "lastOpenFiles": [
+    "Versicherungen/Versicherungsarten/Haftpflichtversicherung/Obligatorisch/Motorfahrzeughaftpflichtversicherung.md",
+    "Versicherungen/Fachbegriffe/Grobfahrlässig.md",
     "Wirtschaftsformen/Freie Marktwirtschaft.md",
-    "Wirtschaftsformen/Wirtschaftsformen.md",
-    "Wirtschaftsformen/Lernziele.md",
+    "Wirtschaftsformen/Bilder/Verschiedene Wirtschaftsformen4.png",
+    "Wirtschaftsformen/Bilder/Verschiedene Wirtschaftsformen3.png",
+    "Wirtschaftsformen/Bilder/Verschiedene Wirtschaftsformen2.png",
+    "Wirtschaftsformen/Bilder/Verschiedene Wirtschaftsformen1.png",
     "Wirtschaftsformen/Soziale Marktwirtschaft.md",
-    "Wirtschaftsformen/Zentrale planwirtschaft.md",
-    "Untitled.canvas",
     "Versicherungen/Versicherungsarten/Versicherungen.md",
     "Versicherungen/Versicherungsarten/Sachversicherung/Sachversicherung.md",
     "Versicherungen/Versicherungsarten/Sachversicherung/Freiwillig/Diebstahlversicherung.md",
     "Versicherungen/Versicherungsarten/Personenversicherungen/Obligatorisch/Unfallversicherung.md",
     "Versicherungen/Versicherungsarten/Personenversicherungen/Obligatorisch/Berufsunfallversicherung.md",
-    "Wirtschaftsformen/Bilder/Verschiedene Wirtschaftsformen4.png",
-    "Wirtschaftsformen/Bilder/Verschiedene Wirtschaftsformen3.png",
-    "Wirtschaftsformen/Bilder/Verschiedene Wirtschaftsformen2.png",
-    "Wirtschaftsformen/Bilder/Verschiedene Wirtschaftsformen1.png",
     "conflict-files-obsidian-git.md",
+    "Wirtschaftsformen/Zentrale planwirtschaft.md",
+    "Wirtschaftsformen/Wirtschaftsformen.md",
+    "Wirtschaftsformen/Lernziele.md",
     "Wirtschaftsformen/Bilder",
     "Wirtschaftsformen",
     "Versicherungen/Versicherungsarten/Sachversicherung/Obligatorisch/Hausratversicherung.md",
     "Versicherungen/Versicherungsarten/Sachversicherung/Obligatorisch/Gebäudeversicherung.md",
     "Versicherungen/Versicherungsarten/Sachversicherung/Freiwillig/Vollkaskoversicherung.md",
     "Versicherungen/Versicherungsarten/Sachversicherung/Freiwillig/Teilkaskoversicherung.md",
-    "Versicherungen/Versicherungsarten/Haftpflichtversicherung/Obligatorisch/Motorfahrzeughaftpflichtversicherung.md",
     "Versicherungen/Versicherungsarten/Haftpflichtversicherung/Freiwillig/Privathaftpflichtversicherung.md",
     "Versicherungen/Versicherungsarten/Personenversicherungen/Obligatorisch/Pensionskasse.md",
     "Versicherungen/Versicherungsarten/Personenversicherungen/Obligatorisch/Krankenversicherung.md",
@@ -198,6 +198,7 @@
     "Wirtschaftsformen/bilder/Verschiedene Wirtschaftsformen3.png",
     "Wirtschaftsformen/bilder/Verschiedene Wirtschaftsformen2.png",
     "Wirtschaftsformen/bilder/Verschiedene Wirtschaftsformen1.png",
-    "Versicherungsarten/Personenversicherungen/Obligatorisch/New Bitmap-Bild.bmp"
+    "Versicherungsarten/Personenversicherungen/Obligatorisch/New Bitmap-Bild.bmp",
+    "Untitled.canvas"
   ]
 }
