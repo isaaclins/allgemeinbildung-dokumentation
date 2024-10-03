@@ -8,18 +8,27 @@
         "type": "tabs",
         "children": [
           {
-            "id": "2885c7fe2b683900",
+            "id": "44a5e8291edb600e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Wirtschaftsformen/Soziale Marktwirtschaft.md",
+                "file": "Wirtschaftsformen/Wirtschaftsformen.md",
                 "mode": "source",
                 "source": false
               }
             }
+          },
+          {
+            "id": "112f2b651d1b42f0",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +94,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Wirtschaftsformen/Soziale Marktwirtschaft.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +110,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Wirtschaftsformen/Soziale Marktwirtschaft.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +131,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Wirtschaftsformen/Soziale Marktwirtschaft.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -147,8 +152,14 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "2885c7fe2b683900",
+  "active": "112f2b651d1b42f0",
   "lastOpenFiles": [
+    "Wirtschaftsformen/Freie Marktwirtschaft.md",
+    "Wirtschaftsformen/Wirtschaftsformen.md",
+    "Wirtschaftsformen/Lernziele.md",
+    "Wirtschaftsformen/Soziale Marktwirtschaft.md",
+    "Wirtschaftsformen/Zentrale planwirtschaft.md",
+    "Untitled.canvas",
     "Versicherungen/Versicherungsarten/Versicherungen.md",
     "Versicherungen/Versicherungsarten/Sachversicherung/Sachversicherung.md",
     "Versicherungen/Versicherungsarten/Sachversicherung/Freiwillig/Diebstahlversicherung.md",
@@ -159,11 +170,6 @@
     "Wirtschaftsformen/Bilder/Verschiedene Wirtschaftsformen2.png",
     "Wirtschaftsformen/Bilder/Verschiedene Wirtschaftsformen1.png",
     "conflict-files-obsidian-git.md",
-    "Wirtschaftsformen/Zentrale planwirtschaft.md",
-    "Wirtschaftsformen/Wirtschaftsformen.md",
-    "Wirtschaftsformen/Soziale Marktwirtschaft.md",
-    "Wirtschaftsformen/Lernziele.md",
-    "Wirtschaftsformen/Freie Marktwirtschaft.md",
     "Wirtschaftsformen/Bilder",
     "Wirtschaftsformen",
     "Versicherungen/Versicherungsarten/Sachversicherung/Obligatorisch/Hausratversicherung.md",
@@ -183,7 +189,6 @@
     "Versicherungen/Versicherungsarten/Sachversicherung/Obligatorisch",
     "Versicherungen/Versicherungsarten/Sachversicherung/Freiwillig",
     "Versicherungen/Versicherungsarten/Haftpflichtversicherung/Obligatorisch",
-    "Versicherungen/Versicherungsarten/Haftpflichtversicherung/Haftpflichtversicherung.md",
     "Versicherungen/Versicherungsarten/Haftpflichtversicherung/Freiwillig",
     "Versicherungen/Versicherungsarten/Personenversicherungen/Obligatorisch",
     "Versicherungen/Versicherungsarten/Personenversicherungen/Freiwillig",
@@ -193,7 +198,6 @@
     "Wirtschaftsformen/bilder/Verschiedene Wirtschaftsformen3.png",
     "Wirtschaftsformen/bilder/Verschiedene Wirtschaftsformen2.png",
     "Wirtschaftsformen/bilder/Verschiedene Wirtschaftsformen1.png",
-    "Versicherungsarten/Personenversicherungen/Obligatorisch/New Bitmap-Bild.bmp",
-    "Untitled.canvas"
+    "Versicherungsarten/Personenversicherungen/Obligatorisch/New Bitmap-Bild.bmp"
   ]
 }
