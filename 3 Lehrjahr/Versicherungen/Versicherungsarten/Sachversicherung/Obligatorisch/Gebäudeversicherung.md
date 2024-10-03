@@ -3,3 +3,5 @@ Die Gebäudeversicherung ist in der Regel obligatorisch für Hausbesitzer und de
 
 ## Fallbeispiel:
 Ein Sturm beschädigt das Dach eines Hauses. Die **Gebäudeversicherung** übernimmt die Kosten für die Reparatur.
+
+test du bisch en gaggi
