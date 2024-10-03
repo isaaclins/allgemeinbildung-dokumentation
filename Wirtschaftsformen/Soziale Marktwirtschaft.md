@@ -11,7 +11,7 @@ Es wird alles von der Bevölkerung und dem Staat verwaltet
 - **Staatliche Eingriffe:** Der Staat greift aktiv in die Wirtschaft ein, um soziale Ungleichheiten zu mindern und öffentliche Güter bereitzustellen.
 ## Beispielländer
 
-- **Deutschland:** Ein klassisches Beispiel für eine soziale Marktwirtschaft, in der der Staat eine aktive Rolle spielt, um soziale Gerechtigkeit zu fördern.
+- **Schweiz:** Ein klassisches Beispiel für eine soziale Marktwirtschaft, in der der Staat eine aktive Rolle spielt, um soziale Gerechtigkeit zu fördern.
 ## Die Rollen in der sozialen Marktwirtschaft
 - Rolle des Staates - in Wirtschaft? 
   Der Staat reguliert den Markt, um soziale Gerechtigkeit zu gewährleisten und Monopole zu verhindern. Er stellt auch öffentliche Güter und Dienstleistungen bereit.
