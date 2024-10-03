@@ -1,4 +1,4 @@
-{
+ {
   "main": {
     "id": "4db4bde40fccf179",
     "type": "split",
@@ -8,18 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "44a5e8291edb600e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Wirtschaftsformen/Wirtschaftsformen.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "112f2b651d1b42f0",
             "type": "leaf",
             "state": {
@@ -27,8 +15,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -154,50 +141,52 @@
   },
   "active": "112f2b651d1b42f0",
   "lastOpenFiles": [
-    "Wirtschaftsformen/Freie Marktwirtschaft.md",
-    "Wirtschaftsformen/Wirtschaftsformen.md",
-    "Wirtschaftsformen/Lernziele.md",
-    "Wirtschaftsformen/Soziale Marktwirtschaft.md",
-    "Wirtschaftsformen/Zentrale planwirtschaft.md",
+    "1 Lehrjahr",
+    "New folder",
+    "2 Lehrjahr",
+    "4 Lehrjahr",
+    "3 Lehrjahr/Wirtschaftsformen/Bilder/Verschiedene Wirtschaftsformen3.png",
+    "3 Lehrjahr/Wirtschaftsformen/Bilder/Verschiedene Wirtschaftsformen4.png",
+    "3 Lehrjahr/Wirtschaftsformen/Bilder/Verschiedene Wirtschaftsformen1.png",
+    "3 Lehrjahr/Wirtschaftsformen/Bilder/Verschiedene Wirtschaftsformen2.png",
+    "3 Lehrjahr/Wirtschaftsformen/Wirtschaftsformen.md",
+    "3 Lehrjahr/Wirtschaftsformen/Zentrale planwirtschaft.md",
+    "3 Lehrjahr/Wirtschaftsformen/Soziale Marktwirtschaft.md",
+    "3 Lehrjahr/Wirtschaftsformen/Lernziele.md",
+    "3 Lehrjahr/Wirtschaftsformen/Freie Marktwirtschaft.md",
+    "3 Lehrjahr/Wirtschaftsformen/Bilder",
+    "3 Lehrjahr/Wirtschaftsformen",
+    "3 Lehrjahr/Versicherungen/Versicherungsarten/Sachversicherung/Obligatorisch/Hausratversicherung.md",
+    "3 Lehrjahr/Versicherungen/Versicherungsarten/Sachversicherung/Obligatorisch/Gebäudeversicherung.md",
+    "3 Lehrjahr/Versicherungen/Versicherungsarten/Sachversicherung/Freiwillig/Diebstahlversicherung.md",
+    "3 Lehrjahr/Versicherungen/Versicherungsarten/Sachversicherung/Freiwillig/Vollkaskoversicherung.md",
+    "3 Lehrjahr/Versicherungen/Versicherungsarten/Sachversicherung/Freiwillig/Teilkaskoversicherung.md",
+    "3 Lehrjahr/Versicherungen/Versicherungsarten/Personenversicherungen/Obligatorisch/Pensionskasse.md",
+    "3 Lehrjahr/Versicherungen/Versicherungsarten/Personenversicherungen/Obligatorisch/Unfallversicherung.md",
+    "3 Lehrjahr/Versicherungen/Versicherungsarten/Personenversicherungen/Obligatorisch/Krankenversicherung.md",
+    "3 Lehrjahr/Versicherungen/Versicherungsarten/Personenversicherungen/Obligatorisch/Invalidenversicherung.md",
+    "3 Lehrjahr/Versicherungen/Versicherungsarten/Personenversicherungen/Obligatorisch/Arbeitslosenversicherung.md",
+    "3 Lehrjahr/Versicherungen/Versicherungsarten/Personenversicherungen/Obligatorisch/Erwerbsersatzordnung.md",
+    "3 Lehrjahr/Versicherungen/Versicherungsarten/Personenversicherungen/Obligatorisch/Berufsunfallversicherung.md",
+    "3 Lehrjahr/Versicherungen/Versicherungsarten/Personenversicherungen/Obligatorisch/Alters-und-Hinterlassenenversicherung.md",
+    "3 Lehrjahr/Versicherungen/Versicherungsarten/Personenversicherungen/Freiwillig/Private-Unfallversicherung.md",
+    "3 Lehrjahr/Versicherungen/Versicherungsarten/Personenversicherungen/Freiwillig/Private-Vorsorge-3-säule.md",
+    "3 Lehrjahr/Versicherungen/Versicherungsarten/Haftpflichtversicherung/Obligatorisch/Motorfahrzeughaftpflichtversicherung.md",
+    "3 Lehrjahr/Versicherungen/Versicherungsarten/Haftpflichtversicherung/Freiwillig/Privathaftpflichtversicherung.md",
+    "3 Lehrjahr/Versicherungen/Versicherungsarten/Sachversicherung/Sachversicherung.md",
+    "3 Lehrjahr/Versicherungen/Versicherungsarten/Personenversicherungen/Personenversicherung Allgemein.md",
+    "3 Lehrjahr/Versicherungen/Versicherungsarten/Sachversicherung/Obligatorisch",
+    "3 Lehrjahr/Versicherungen/Versicherungsarten/Sachversicherung/Freiwillig",
+    "3 Lehrjahr/Versicherungen/Versicherungsarten/Personenversicherungen/Obligatorisch",
+    "3 Lehrjahr/Versicherungen/Versicherungsarten/Personenversicherungen/Freiwillig",
+    "3 Lehrjahr/Versicherungen/Versicherungsarten/Haftpflichtversicherung/Haftpflichtversicherung.md",
+    "3 Lehrjahr/Versicherungen/Versicherungsarten/Haftpflichtversicherung/Obligatorisch",
     "Untitled.canvas",
-    "Versicherungen/Versicherungsarten/Versicherungen.md",
-    "Versicherungen/Versicherungsarten/Sachversicherung/Sachversicherung.md",
-    "Versicherungen/Versicherungsarten/Sachversicherung/Freiwillig/Diebstahlversicherung.md",
-    "Versicherungen/Versicherungsarten/Personenversicherungen/Obligatorisch/Unfallversicherung.md",
-    "Versicherungen/Versicherungsarten/Personenversicherungen/Obligatorisch/Berufsunfallversicherung.md",
     "Wirtschaftsformen/Bilder/Verschiedene Wirtschaftsformen4.png",
     "Wirtschaftsformen/Bilder/Verschiedene Wirtschaftsformen3.png",
     "Wirtschaftsformen/Bilder/Verschiedene Wirtschaftsformen2.png",
     "Wirtschaftsformen/Bilder/Verschiedene Wirtschaftsformen1.png",
-    "conflict-files-obsidian-git.md",
-    "Wirtschaftsformen/Bilder",
-    "Wirtschaftsformen",
-    "Versicherungen/Versicherungsarten/Sachversicherung/Obligatorisch/Hausratversicherung.md",
-    "Versicherungen/Versicherungsarten/Sachversicherung/Obligatorisch/Gebäudeversicherung.md",
-    "Versicherungen/Versicherungsarten/Sachversicherung/Freiwillig/Vollkaskoversicherung.md",
-    "Versicherungen/Versicherungsarten/Sachversicherung/Freiwillig/Teilkaskoversicherung.md",
-    "Versicherungen/Versicherungsarten/Haftpflichtversicherung/Obligatorisch/Motorfahrzeughaftpflichtversicherung.md",
-    "Versicherungen/Versicherungsarten/Haftpflichtversicherung/Freiwillig/Privathaftpflichtversicherung.md",
-    "Versicherungen/Versicherungsarten/Personenversicherungen/Obligatorisch/Pensionskasse.md",
-    "Versicherungen/Versicherungsarten/Personenversicherungen/Obligatorisch/Krankenversicherung.md",
-    "Versicherungen/Versicherungsarten/Personenversicherungen/Obligatorisch/Invalidenversicherung.md",
-    "Versicherungen/Versicherungsarten/Personenversicherungen/Obligatorisch/Erwerbsersatzordnung.md",
-    "Versicherungen/Versicherungsarten/Personenversicherungen/Obligatorisch/Arbeitslosenversicherung.md",
-    "Versicherungen/Versicherungsarten/Personenversicherungen/Obligatorisch/Alters-und-Hinterlassenenversicherung.md",
-    "Versicherungen/Versicherungsarten/Personenversicherungen/Freiwillig/Private-Vorsorge-3-säule.md",
-    "Versicherungen/Versicherungsarten/Personenversicherungen/Freiwillig/Private-Unfallversicherung.md",
-    "Versicherungen/Versicherungsarten/Sachversicherung/Obligatorisch",
-    "Versicherungen/Versicherungsarten/Sachversicherung/Freiwillig",
-    "Versicherungen/Versicherungsarten/Haftpflichtversicherung/Obligatorisch",
-    "Versicherungen/Versicherungsarten/Haftpflichtversicherung/Freiwillig",
-    "Versicherungen/Versicherungsarten/Personenversicherungen/Obligatorisch",
-    "Versicherungen/Versicherungsarten/Personenversicherungen/Freiwillig",
-    "Versicherungen/Versicherungsarten/Sachversicherung",
-    "Versicherungen/Versicherungsarten/Haftpflichtversicherung",
     "Wirtschaftsformen/bilder/Verschiedene Wirtschaftsformen4.png",
-    "Wirtschaftsformen/bilder/Verschiedene Wirtschaftsformen3.png",
-    "Wirtschaftsformen/bilder/Verschiedene Wirtschaftsformen2.png",
-    "Wirtschaftsformen/bilder/Verschiedene Wirtschaftsformen1.png",
-    "Versicherungsarten/Personenversicherungen/Obligatorisch/New Bitmap-Bild.bmp"
+    "Wirtschaftsformen/bilder/Verschiedene Wirtschaftsformen3.png"
   ]
 }
