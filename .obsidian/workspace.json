@@ -1,17 +1,17 @@
- {
+{
   "main": {
-    "id": "4db4bde40fccf179",
+    "id": "62b43d8aab7d6ef5",
     "type": "split",
     "children": [
       {
-        "id": "7e932bdde1da74c8",
+        "id": "cfe1e5b0937930ff",
         "type": "tabs",
         "children": [
           {
-            "id": "112f2b651d1b42f0",
+            "id": "de1b7ca574875bab",
             "type": "leaf",
             "state": {
-              "type": "graph",
+              "type": "empty",
               "state": {}
             }
           }
@@ -21,15 +21,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "9a7b9620d3b233b0",
+    "id": "1f61aa7990da8220",
     "type": "split",
     "children": [
       {
-        "id": "ca0a9772743731d4",
+        "id": "2e6647b23ce01bb1",
         "type": "tabs",
         "children": [
           {
-            "id": "f919836425d98d46",
+            "id": "e1667a75bd0af8c0",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -39,12 +39,12 @@
             }
           },
           {
-            "id": "1868a2e83f339114",
+            "id": "311d53021210085b",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
-                "query": "unter",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -54,7 +54,7 @@
             }
           },
           {
-            "id": "ff169cb2d5594895",
+            "id": "288a7dc54ffbc453",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -65,18 +65,18 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 300
   },
   "right": {
-    "id": "6b7dfd54e2934d0f",
+    "id": "aaa008aa7e96d7b1",
     "type": "split",
     "children": [
       {
-        "id": "7ab61910948aee3a",
+        "id": "f0adaa7d7419f1a3",
         "type": "tabs",
         "children": [
           {
-            "id": "6dacd7f177d54fd3",
+            "id": "c4d6d1f2007add7e",
             "type": "leaf",
             "state": {
               "type": "backlink",
@@ -92,7 +92,7 @@
             }
           },
           {
-            "id": "a882d7bd9140b791",
+            "id": "44a8aeaf46c69106",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
@@ -103,7 +103,7 @@
             }
           },
           {
-            "id": "cf3c3762678fb27e",
+            "id": "7fd30f70e4dfc982",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -114,7 +114,7 @@
             }
           },
           {
-            "id": "ffd112f484a76c8d",
+            "id": "f618921f182a99c5",
             "type": "leaf",
             "state": {
               "type": "outline",
@@ -130,63 +130,15 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "templater-obsidian:Templater": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false,
-      "templater-obsidian:Templater": false
+      "command-palette:Open command palette": false
     }
   },
-  "active": "112f2b651d1b42f0",
-  "lastOpenFiles": [
-    "1 Lehrjahr",
-    "New folder",
-    "2 Lehrjahr",
-    "4 Lehrjahr",
-    "3 Lehrjahr/Wirtschaftsformen/Bilder/Verschiedene Wirtschaftsformen3.png",
-    "3 Lehrjahr/Wirtschaftsformen/Bilder/Verschiedene Wirtschaftsformen4.png",
-    "3 Lehrjahr/Wirtschaftsformen/Bilder/Verschiedene Wirtschaftsformen1.png",
-    "3 Lehrjahr/Wirtschaftsformen/Bilder/Verschiedene Wirtschaftsformen2.png",
-    "3 Lehrjahr/Wirtschaftsformen/Wirtschaftsformen.md",
-    "3 Lehrjahr/Wirtschaftsformen/Zentrale planwirtschaft.md",
-    "3 Lehrjahr/Wirtschaftsformen/Soziale Marktwirtschaft.md",
-    "3 Lehrjahr/Wirtschaftsformen/Lernziele.md",
-    "3 Lehrjahr/Wirtschaftsformen/Freie Marktwirtschaft.md",
-    "3 Lehrjahr/Wirtschaftsformen/Bilder",
-    "3 Lehrjahr/Wirtschaftsformen",
-    "3 Lehrjahr/Versicherungen/Versicherungsarten/Sachversicherung/Obligatorisch/Hausratversicherung.md",
-    "3 Lehrjahr/Versicherungen/Versicherungsarten/Sachversicherung/Obligatorisch/Gebäudeversicherung.md",
-    "3 Lehrjahr/Versicherungen/Versicherungsarten/Sachversicherung/Freiwillig/Diebstahlversicherung.md",
-    "3 Lehrjahr/Versicherungen/Versicherungsarten/Sachversicherung/Freiwillig/Vollkaskoversicherung.md",
-    "3 Lehrjahr/Versicherungen/Versicherungsarten/Sachversicherung/Freiwillig/Teilkaskoversicherung.md",
-    "3 Lehrjahr/Versicherungen/Versicherungsarten/Personenversicherungen/Obligatorisch/Pensionskasse.md",
-    "3 Lehrjahr/Versicherungen/Versicherungsarten/Personenversicherungen/Obligatorisch/Unfallversicherung.md",
-    "3 Lehrjahr/Versicherungen/Versicherungsarten/Personenversicherungen/Obligatorisch/Krankenversicherung.md",
-    "3 Lehrjahr/Versicherungen/Versicherungsarten/Personenversicherungen/Obligatorisch/Invalidenversicherung.md",
-    "3 Lehrjahr/Versicherungen/Versicherungsarten/Personenversicherungen/Obligatorisch/Arbeitslosenversicherung.md",
-    "3 Lehrjahr/Versicherungen/Versicherungsarten/Personenversicherungen/Obligatorisch/Erwerbsersatzordnung.md",
-    "3 Lehrjahr/Versicherungen/Versicherungsarten/Personenversicherungen/Obligatorisch/Berufsunfallversicherung.md",
-    "3 Lehrjahr/Versicherungen/Versicherungsarten/Personenversicherungen/Obligatorisch/Alters-und-Hinterlassenenversicherung.md",
-    "3 Lehrjahr/Versicherungen/Versicherungsarten/Personenversicherungen/Freiwillig/Private-Unfallversicherung.md",
-    "3 Lehrjahr/Versicherungen/Versicherungsarten/Personenversicherungen/Freiwillig/Private-Vorsorge-3-säule.md",
-    "3 Lehrjahr/Versicherungen/Versicherungsarten/Haftpflichtversicherung/Obligatorisch/Motorfahrzeughaftpflichtversicherung.md",
-    "3 Lehrjahr/Versicherungen/Versicherungsarten/Haftpflichtversicherung/Freiwillig/Privathaftpflichtversicherung.md",
-    "3 Lehrjahr/Versicherungen/Versicherungsarten/Sachversicherung/Sachversicherung.md",
-    "3 Lehrjahr/Versicherungen/Versicherungsarten/Personenversicherungen/Personenversicherung Allgemein.md",
-    "3 Lehrjahr/Versicherungen/Versicherungsarten/Sachversicherung/Obligatorisch",
-    "3 Lehrjahr/Versicherungen/Versicherungsarten/Sachversicherung/Freiwillig",
-    "3 Lehrjahr/Versicherungen/Versicherungsarten/Personenversicherungen/Obligatorisch",
-    "3 Lehrjahr/Versicherungen/Versicherungsarten/Personenversicherungen/Freiwillig",
-    "3 Lehrjahr/Versicherungen/Versicherungsarten/Haftpflichtversicherung/Haftpflichtversicherung.md",
-    "3 Lehrjahr/Versicherungen/Versicherungsarten/Haftpflichtversicherung/Obligatorisch",
-    "Untitled.canvas",
-    "Wirtschaftsformen/Bilder/Verschiedene Wirtschaftsformen4.png",
-    "Wirtschaftsformen/Bilder/Verschiedene Wirtschaftsformen3.png",
-    "Wirtschaftsformen/Bilder/Verschiedene Wirtschaftsformen2.png",
-    "Wirtschaftsformen/Bilder/Verschiedene Wirtschaftsformen1.png",
-    "Wirtschaftsformen/bilder/Verschiedene Wirtschaftsformen4.png",
-    "Wirtschaftsformen/bilder/Verschiedene Wirtschaftsformen3.png"
-  ]
+  "active": "de1b7ca574875bab",
+  "lastOpenFiles": []
 }

@@ -6,3 +6,9 @@ Ein Autofahrer verursacht einen Unfall und beschädigt ein anderes Fahrzeug. Die
 
 ### Bonus Malous System:
 -> [[Bonus-Malus-System]]
+
+### Regress:
+-> [[Regress]]
+
+### Grobfahrlässig:
+-> [[Grobfahrlässig]]
