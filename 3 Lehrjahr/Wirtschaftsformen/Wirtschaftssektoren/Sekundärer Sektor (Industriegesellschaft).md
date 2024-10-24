@@ -2,7 +2,7 @@
 
 Der **Sekundäre Sektor** bezieht sich auf die Verarbeitung und Veredelung von Rohstoffen, die im primären Sektor gewonnen wurden. Hier werden die Rohstoffe in Produkte umgewandelt, die direkt an Konsumenten verkauft oder in anderen Bereichen weiterverarbeitet werden. Ein typisches Beispiel ist die Verarbeitung von Getreide zu Mehl und schliesslich zu Brot.
 
-## Wichtige Berufe im Sekundären Sektor:
+## Wichtige Berufe im Sekundären Sektor
 
 1. **Bäcker**: Bäcker verarbeiten Mehl und andere Zutaten zu Backwaren wie Brot, Brötchen oder Kuchen. Sie setzen dabei verschiedene Produktionsprozesse ein, um frische und qualitativ hochwertige Produkte herzustellen.
 
