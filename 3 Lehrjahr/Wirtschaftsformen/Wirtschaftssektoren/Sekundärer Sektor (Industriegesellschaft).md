@@ -1,4 +1,3 @@
-
 # Der Sekundäre Sektor (Latein: secundarium): Produktion und Verarbeitung
 
 Der **Sekundäre Sektor** bezieht sich auf die Verarbeitung und Veredelung von Rohstoffen, die im primären Sektor gewonnen wurden. Hier werden die Rohstoffe in Produkte umgewandelt, die direkt an Konsumenten verkauft oder in anderen Bereichen weiterverarbeitet werden. Ein typisches Beispiel ist die Verarbeitung von Getreide zu Mehl und schließlich zu Brot.
