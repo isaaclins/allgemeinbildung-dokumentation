@@ -2,3 +2,7 @@
 
 > Sieht aus wie Sigma in weiblich (Overwatch)
 > ![[sigma.webp]]
+
+> Unnatürliche obsession mit Landwirtschaft
+
+ 
