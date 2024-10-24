@@ -14,6 +14,8 @@ Der **Tertiäre Sektor** umfasst alle wirtschaftlichen Aktivitäten, die mit Die
 
 5. **Reisebüromitarbeiter**: In Reisebüros organisieren Mitarbeiter Reisen, buchen Flüge, Hotels und bieten ihren Kunden Beratung und Unterstützung bei der Planung von Urlaubs- oder Geschäftsreisen.
 
+6. **Facility Manager**:  
+
 ## Bedeutung des Tertiären Sektors
 
 Der tertiäre Sektor ist in modernen Volkswirtschaften der größte und am schnellsten wachsende Wirtschaftsbereich. Mit dem technologischen Fortschritt und der Globalisierung ist die Nachfrage nach Dienstleistungen und Handel stark gestiegen. In entwickelten Ländern dominiert dieser Sektor, da viele Produktionsprozesse automatisiert wurden und sich die Wirtschaft zunehmend auf Dienstleistungen wie Gesundheit, Bildung, Transport und Finanzen verlagert hat. 
