@@ -15,5 +15,3 @@ Der **Sekundäre Sektor** bezieht sich auf die Verarbeitung und Veredelung von R
 ## Bedeutung des Sekundären Sektors
 
 Der sekundäre Sektor ist ein zentraler Teil der Wirtschaft, da er die Rohstoffe in nützliche Produkte umwandelt, die der Gesellschaft zur Verfügung gestellt werden. In Industrienationen macht dieser Sektor einen erheblichen Teil der wirtschaftlichen Produktion aus, besonders in Bereichen wie Automobilindustrie, Bauwesen und Maschinenbau. Durch technologische Entwicklungen und industrielle Revolutionen ist der sekundäre Sektor stark gewachsen und bildet das Rückgrat moderner Volkswirtschaften.
-
-## Industriegesellschaft

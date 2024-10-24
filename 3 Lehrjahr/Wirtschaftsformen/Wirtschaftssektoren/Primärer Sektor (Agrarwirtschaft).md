@@ -15,4 +15,4 @@ Der **Primäre Sektor** beschäftigt sich mit der Gewinnung von natürlichen Res
 
 Der primäre Sektor bildet die Basis der gesamten Wirtschaft, da er die Rohstoffe für die Produktion von Gütern liefert. Trotz der fortschreitenden Technologisierung ist dieser Sektor besonders in ländlichen Gebieten von großer Bedeutung. Viele Entwicklungsländer sind stark auf den primären Sektor angewiesen, während in Industrienationen die Bedeutung oft zugunsten der anderen Sektoren zurückgeht.
 
-## Agrarwirtschaft
+
