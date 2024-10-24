@@ -1,4 +1,4 @@
-# Der Primäre Sektor: Ressourcen Gewinnung
+# Der Primäre Sektor (Latein: Primus): Ressourcen Gewinnung
 
 Der **Primäre Sektor** beschäftigt sich mit der Gewinnung von natürlichen Ressourcen. Diese Rohstoffe sind die Grundlage vieler Produkte, die in anderen Wirtschaftssektoren weiterverarbeitet werden. Ein klassisches Beispiel ist die Produktion von Getreide, das für die Herstellung von Brot benötigt wird.
 
@@ -14,4 +14,5 @@ Der **Primäre Sektor** beschäftigt sich mit der Gewinnung von natürlichen Res
 ## Bedeutung des Primären Sektors
 
 Der primäre Sektor bildet die Basis der gesamten Wirtschaft, da er die Rohstoffe für die Produktion von Gütern liefert. Trotz der fortschreitenden Technologisierung ist dieser Sektor besonders in ländlichen Gebieten von großer Bedeutung. Viele Entwicklungsländer sind stark auf den primären Sektor angewiesen, während in Industrienationen die Bedeutung oft zugunsten der anderen Sektoren zurückgeht.
+
 

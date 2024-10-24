@@ -1,4 +1,4 @@
-# Der Tertiäre Sektor: Dienstleistungen und Handel
+# Der Tertiäre Sektor (Latein: Tertiarius): Dienstleistungen und Handel
 
 Der **Tertiäre Sektor** umfasst alle wirtschaftlichen Aktivitäten, die mit Dienstleistungen und dem Handel von Gütern verbunden sind. Im Gegensatz zu den ersten beiden Sektoren geht es hier weniger um die Produktion von materiellen Gütern, sondern um die Bereitstellung von Dienstleistungen und den Vertrieb von Produkten. Ein klassisches Beispiel wäre der Verkauf von Brot in einem Supermarkt oder die Beratung durch einen Finanzdienstleister.
 
