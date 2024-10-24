@@ -23,5 +23,5 @@ Es wird alles von der Bevölkerung verwaltet
   Jeder kann machen was er will. Wenn jemand Krank ist oder nicht Arbeiten kann ist das dem Staat egal. Es braucht auch viel Moral. Weitere Nachteile/Probleme ist und Probleme.
 - Staat, der sich an diesem "Model" teilweise orientiert?
 ## Probleme
-1. **Ungleichheit:** In einer freien Marktwirtschaft kann es zu großen Einkommens- und Vermögensunterschieden kommen, da der Markt nicht unbedingt soziale Gerechtigkeit fördert.
+1. **Ungleichheit:** In einer freien Marktwirtschaft kann es zu grossen Einkommens- und Vermögensunterschieden kommen, da der Markt nicht unbedingt soziale Gerechtigkeit fördert.
 2. **Marktversagen:** Es kann zu Situationen kommen, in denen der Markt nicht effizient funktioniert, wie bei Monopolen oder externen Effekten (z.B. Umweltverschmutzung).

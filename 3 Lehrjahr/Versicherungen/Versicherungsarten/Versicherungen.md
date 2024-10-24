@@ -5,7 +5,7 @@ Es gibt 3 Versicherungsarten:
 -> [[Sachversicherung]]
 -> [[Haftpflichtversicherung]]
 
-[[Personenversicherung Allgemein]] - Personenversicherungen schützen Einzelpersonen vor finanziellen Risiken im Zusammenhang mit Verletzungen, Krankheiten oder Tod. Sie können Lebensversicherungen, Krankenversicherungen und Unfallversicherungen umfassen. Die meisten Personenversicherungen sind nicht obligatorisch, aber es wird dringend empfohlen, eine Krankenversicherung abzuschließen.
+[[Personenversicherung Allgemein]] - Personenversicherungen schützen Einzelpersonen vor finanziellen Risiken im Zusammenhang mit Verletzungen, Krankheiten oder Tod. Sie können Lebensversicherungen, Krankenversicherungen und Unfallversicherungen umfassen. Die meisten Personenversicherungen sind nicht obligatorisch, aber es wird dringend empfohlen, eine Krankenversicherung abzuschliessen.
 
   
 | Versicherungsarten                        | Obligatorisch? |
@@ -22,7 +22,7 @@ Es gibt 3 Versicherungsarten:
 | [[Unfallversicherung]]                    | JA             |
 
 
-[[Sachversicherung]] - Sachversicherungen decken Schäden an **materiellen Gütern wie Gebäuden**, Fahrzeugen und Hausrat ab. Beispiele für Sachversicherungen sind Hausratversicherungen, Gebäudeversicherungen und Haftpflichtversicherungen. Die meisten Sachversicherungen sind nicht obligatorisch, aber es kann je nach Situation ratsam sein, eine solche Versicherung abzuschließen.
+[[Sachversicherung]] - Sachversicherungen decken Schäden an **materiellen Gütern wie Gebäuden**, Fahrzeugen und Hausrat ab. Beispiele für Sachversicherungen sind Hausratversicherungen, Gebäudeversicherungen und Haftpflichtversicherungen. Die meisten Sachversicherungen sind nicht obligatorisch, aber es kann je nach Situation ratsam sein, eine solche Versicherung abzuschliessen.
 
 
 | Versicherungsarten        | Obligatorisch? |
@@ -34,7 +34,7 @@ Es gibt 3 Versicherungsarten:
 | [[Hausratversicherung]]   | JA             |
 
 
-[[Haftpflichtversicherung]] - Eine Haftpflichtversicherung schützt den Versicherungsnehmer vor finanziellen Verlusten, die durch Schäden an Dritten verursacht werden. Sie deckt in der Regel Schadensersatzansprüche ab, die aus Verletzungen, Sachschäden oder Vermögensschäden resultieren können. Eine Haftpflichtversicherung ist in den meisten Fällen nicht obligatorisch, aber es wird dringend empfohlen, eine solche Versicherung abzuschließen, um sich vor unvorhergesehenen Kosten zu schützen.
+[[Haftpflichtversicherung]] - Eine Haftpflichtversicherung schützt den Versicherungsnehmer vor finanziellen Verlusten, die durch Schäden an Dritten verursacht werden. Sie deckt in der Regel Schadensersatzansprüche ab, die aus Verletzungen, Sachschäden oder Vermögensschäden resultieren können. Eine Haftpflichtversicherung ist in den meisten Fällen nicht obligatorisch, aber es wird dringend empfohlen, eine solche Versicherung abzuschliessen, um sich vor unvorhergesehenen Kosten zu schützen.
 
 | Versicherungsarten                       | Obligatorisch? |
 | ---------------------------------------- | -------------- |
