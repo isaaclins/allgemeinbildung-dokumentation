@@ -1,4 +1,4 @@
-# Der Sekundäre Sektor: Produktion und Verarbeitung
+# Der Sekundäre Sektor (Latein: secundarium): Produktion und Verarbeitung
 
 Der **Sekundäre Sektor** bezieht sich auf die Verarbeitung und Veredelung von Rohstoffen, die im primären Sektor gewonnen wurden. Hier werden die Rohstoffe in Produkte umgewandelt, die direkt an Konsumenten verkauft oder in anderen Bereichen weiterverarbeitet werden. Ein typisches Beispiel ist die Verarbeitung von Getreide zu Mehl und schließlich zu Brot.
 
@@ -15,3 +15,5 @@ Der **Sekundäre Sektor** bezieht sich auf die Verarbeitung und Veredelung von R
 ## Bedeutung des Sekundären Sektors
 
 Der sekundäre Sektor ist ein zentraler Teil der Wirtschaft, da er die Rohstoffe in nützliche Produkte umwandelt, die der Gesellschaft zur Verfügung gestellt werden. In Industrienationen macht dieser Sektor einen erheblichen Teil der wirtschaftlichen Produktion aus, besonders in Bereichen wie Automobilindustrie, Bauwesen und Maschinenbau. Durch technologische Entwicklungen und industrielle Revolutionen ist der sekundäre Sektor stark gewachsen und bildet das Rückgrat moderner Volkswirtschaften.
+
+## Industriegesellschaft
