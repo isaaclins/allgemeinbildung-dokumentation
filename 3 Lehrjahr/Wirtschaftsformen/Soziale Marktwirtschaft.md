@@ -1,4 +1,4 @@
-Auch genannt Rheinischer Kapitalismus (Gründer: Ludwig Erhard)
+xAuch genannt Rheinischer Kapitalismus (Gründer: Ludwig Erhard)
 Es wird alles von der Bevölkerung und dem Staat verwaltet
 - **Marktbasierte Entscheidungen:** Angebot und Nachfrage bestimmen die Produktion und Preise, jedoch mit staatlichen Eingriffen zur Sicherstellung sozialer Gerechtigkeit.
 
