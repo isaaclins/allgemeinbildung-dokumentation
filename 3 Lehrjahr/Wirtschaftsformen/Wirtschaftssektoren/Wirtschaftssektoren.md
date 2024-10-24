@@ -6,3 +6,4 @@ Die Wirtschaftssektoren sind eine grundlegende Einteilung der Wirtschaft, die au
 
 ## 3. [[Tertiärer Sektor]]
 
+INDUSTRIEGESELLSCHAFT
