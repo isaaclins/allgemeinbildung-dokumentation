@@ -23,9 +23,9 @@ Es wird alles von der Bevölkerung verwaltet
   Dadurch wird eine Marktwirtschaftlichen Konkurrenz gefördert und somit wächst das Angebot etc. 
 
 - Nachteile der Freien Marktwirtschaft?
-  Jeder kann machen was er will. Wenn jemand Krank ist oder nicht Arbeiten kann ist das dem Staat egal. Es braucht auch viel Moral. Weitere Nachteile/Probleme ist und Probleme.
+  Jeder kann machen was er will. Wenn jemand Krank ist oder nicht Arbeiten kann ist das dem Staat egal.
 
-- Staat, der sich an diesem "Model" teilweise orientiert?
+- Staat, der sich an diesem "Modell" teilweise orientiert?
 ## Probleme
 1. **Ungleichheit:** In einer freien Marktwirtschaft kann es zu grossen Einkommens- und Vermögensunterschieden kommen, da der Markt nicht unbedingt soziale Gerechtigkeit fördert.
 2. **Marktversagen:** Es kann zu Situationen kommen, in denen der Markt nicht effizient funktioniert, wie bei Monopolen oder externen Effekten (z.B. Umweltverschmutzung).
