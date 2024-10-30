@@ -214,7 +214,7 @@ Sie klären die Frage, weshalb die Schweizer Landwirtschaft gegenüber dem Ausla
     - Der Schweizer Binnenmarkt ist relativ klein, was die Skalierungsmöglichkeiten für Unternehmen einschränkt.
 - **Strenge Regulierungen**:
     - Die Schweiz hat strenge Regulierungen und hohe Standards, die die Geschäftstätigkeit komplizieren und verteuern können.
-    
+
 ---
 
 ### Lernziel 9:
