@@ -57,3 +57,4 @@ Die Lernenden erläutern die Grundideen, die hinter den beiden Wirtschaftsformen
     
 
 - Die Lernenden erklären, um welches direktdemokratische Instrument es sich bei dieser Abstimmungsvorlage genau gehandelt hat und wissen auch, wie die Abstimmung zur BVG-Reform an der Urne letztlich entschieden wurde.
+	
