@@ -265,16 +265,13 @@ Sie klären die Frage, weshalb die Schweizer Landwirtschaft gegenüber dem Ausla
 - Bei der Abstimmungsvorlage handelte es sich um ein Referendum.
 - Bei der Abstimmung wurde an der Urne entschieden das es Abgelehnt wird
 
----
-
-Lernziele zu den Themen: (Es versteht sich, dass es sich bei allen aufgeführten Lernzielen lediglich um inhaltliche Schwerpunkte handelt. Haben Sie diese intus, sind Sie schon recht gut vorbereitet. Die Prüfung kann aber grundsätzlich alle noch weiteren Inhalte abfragen, die auf den Arbeitsblättern oder abgegebenen Textblättern (s. oben), in den bearbeiteten Seiten in Ihrem Lehrmittel oder auch im Unterricht mündlich besprochen worden sind.)
 
 ---
 
 ## Zusammenfassung:
 
-- **Zentrale Planwirtschaft**: Staatliche Kontrolle, keine freie Marktmechanismen.
-- **Freie Marktwirtschaft**: Keine staatliche Kontrolle, freie Marktmechanismen.
+- **[[3 Lehrjahr/Wirtschaftsformen/Zentrale Planwirtschaft|Zentrale Planwirtschaft]]**: Staatliche Kontrolle, keine freie Marktmechanismen.
+- **[[3 Lehrjahr/Wirtschaftsformen/Freie Marktwirtschaft|Freie Marktwirtschaft]]**: Keine staatliche Kontrolle, freie Marktmechanismen.
 - **Versagen des freien Marktes**: Umweltprobleme, Monopole, Ungleichheit.
 - **Probleme der Planwirtschaft**: Ineffizienz, Bürokratie, Innovationsmangel.
 - **Soziale Marktwirtschaft**: Kombination von Markt und sozialer Absicherung.
@@ -291,3 +288,7 @@ Lernziele zu den Themen: (Es versteht sich, dass es sich bei allen aufgeführten
 - **Abstimmung**: Referendum, Reform abgelehnt.
 
 ---
+Lernziele zu den Themen: (Es versteht sich, dass es sich bei allen aufgeführten Lernzielen lediglich um inhaltliche Schwerpunkte handelt. Haben Sie diese intus, sind Sie schon recht gut vorbereitet. Die Prüfung kann aber grundsätzlich alle noch weiteren Inhalte abfragen, die auf den Arbeitsblättern oder abgegebenen Textblättern (s. oben), in den bearbeiteten Seiten in Ihrem Lehrmittel oder auch im Unterricht mündlich besprochen worden sind.)
+
+---
+
