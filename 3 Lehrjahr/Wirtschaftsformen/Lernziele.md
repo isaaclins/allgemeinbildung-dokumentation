@@ -270,3 +270,24 @@ Sie klären die Frage, weshalb die Schweizer Landwirtschaft gegenüber dem Ausla
 Lernziele zu den Themen: (Es versteht sich, dass es sich bei allen aufgeführten Lernzielen lediglich um inhaltliche Schwerpunkte handelt. Haben Sie diese intus, sind Sie schon recht gut vorbereitet. Die Prüfung kann aber grundsätzlich alle noch weiteren Inhalte abfragen, die auf den Arbeitsblättern oder abgegebenen Textblättern (s. oben), in den bearbeiteten Seiten in Ihrem Lehrmittel oder auch im Unterricht mündlich besprochen worden sind.)
 
 ---
+
+## Zusammenfassung:
+
+- **Zentrale Planwirtschaft**: Staatliche Kontrolle, keine freie Marktmechanismen.
+- **Freie Marktwirtschaft**: Keine staatliche Kontrolle, freie Marktmechanismen.
+- **Versagen des freien Marktes**: Umweltprobleme, Monopole, Ungleichheit.
+- **Probleme der Planwirtschaft**: Ineffizienz, Bürokratie, Innovationsmangel.
+- **Soziale Marktwirtschaft**: Kombination von Markt und sozialer Absicherung.
+- **Staatliche Eingriffe**: Subventionen, Preisregulierung, öffentliche Güter.
+- **Sozialer Ausgleich**: Sozialversicherungen, progressive Steuern.
+- **WEKO**: Wettbewerbsschutz, Kartellverhinderung.
+- **Preisüberwacher**: Preisüberwachung, Konsumentenschutz.
+- **Wirtschaftssektoren**: Primär (Rohstoffe), Sekundär (Produktion), Tertiär (Dienstleistungen).
+- **Wandel der Sektoren**: Von Agrar- zu Industrie- zu Dienstleistungsgesellschaft.
+- **Schweizer Landwirtschaft**: Hohe Kosten, staatliche Unterstützung.
+- **Wirtschaftsstandort Schweiz**: Stabilität, Bildung, Infrastruktur vs. hohe Kosten, kleiner Markt.
+- **BVG-Reform**: Rentenstabilität, Erhöhung des Rentenalters, Beitragssätze.
+- **Pro und Contra der Reform**: Finanzielle Stabilität vs. Rentenkürzungen, höhere Beiträge.
+- **Abstimmung**: Referendum, Reform abgelehnt.
+
+---
