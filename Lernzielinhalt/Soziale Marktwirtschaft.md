@@ -1,8 +1,9 @@
 Auch genannt Rheinischer Kapitalismus (Gründer: Ludwig Erhard)
 Es wird alles von der Bevölkerung und dem Staat verwaltet
+
 - **Marktbasierte Entscheidungen:** Angebot und Nachfrage bestimmen die Produktion und Preise, jedoch mit staatlichen Eingriffen zur Sicherstellung sozialer Gerechtigkeit.
 
-- **Wettbewerb:** Unternehmen konkurrieren miteinander, was Innovation und Effizienz fördert, aber der Staat greift ein, um Monopole zu verhindern.
+- **Wettbewerb:** Unternehmen konkurrieren miteinander, was Innovation und Effizienz (kosten tierfer :D ) fördert, aber der Staat greift ein, um Monopole zu verhindern.
 
 - **Privateigentum:** Produktionsmittel sind im Besitz von Privatpersonen oder Unternehmen, jedoch gibt es staatliche Regulierungen.
 
