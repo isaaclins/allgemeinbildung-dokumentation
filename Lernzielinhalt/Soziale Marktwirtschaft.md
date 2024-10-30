@@ -27,7 +27,7 @@ Es wird alles von der Bevölkerung und dem Staat verwaltet
   Staatliche Eingriffe können zu Bürokratie und Ineffizienz führen. Es besteht die Gefahr, dass der Staat zu stark in die Wirtschaft eingreift.
 
 - Staat, der sich an diesem "Modell" teilweise orientiert?
-  Schweden, Norwegen und andere skandinavische Länder haben Elemente der sozialen Marktwirtschaft in ihren Wirtschaftssystemen integriert.
+  Schweden, Norwegen und andere skandinavische Länder haben Elemente der sozialen Marktwirtschaft in ihr Wirtschaftssystemen integriert.
 ## Probleme
 1. **Bürokratie:** Staatliche Eingriffe können zu einer übermässigen Bürokratie führen, die die Effizienz hemmt.
 2. **Kosten:** Die Bereitstellung sozialer Dienstleistungen kann hohe Kosten verursachen, die durch Steuern finanziert werden müssen.
