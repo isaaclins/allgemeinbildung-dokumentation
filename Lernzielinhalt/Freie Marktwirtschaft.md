@@ -20,12 +20,14 @@ Es wird alles von der Bevölkerung verwaltet
   Indirekter Teilnehmer welcher für die Rechtsordnung schaut
   
 - Vorteile der Freien Marktwirtschaft?
-  Dadurch wird eine Marktwirtschaftlichen Konkurrenz gefördert und somit wächst das Angebot etc. 
+  Dadurch wird eine Marktwirtschaftlichen Konkurrenz gefördert und somit wächst das Angebot etc. Ausserdem sinkt der Preis bei genügend Konkurrenz 
 
 - Nachteile der Freien Marktwirtschaft?
   Jeder kann machen was er will. Wenn jemand Krank ist oder nicht Arbeiten kann ist das dem Staat egal.
 
 - Staat, der sich an diesem "Modell" teilweise orientiert?
+	USA
 ## Probleme
 1. **Ungleichheit:** In einer freien Marktwirtschaft kann es zu grossen Einkommens- und Vermögensunterschieden kommen, da der Markt nicht unbedingt soziale Gerechtigkeit fördert.
-2. **Marktversagen:** Es kann zu Situationen kommen, in denen der Markt nicht effizient funktioniert, wie bei Monopolen oder externen Effekten (z.B. Umweltverschmutzung).
+2. **Marktversagen:** Es kann zu Situationen kommen, in denen der Markt nicht effizient funktioniert, wie bei Monopolen, Kartellen oder externen Effekten (z.B. Umweltverschmutzung).
+3. Personen mit schlechter Bildung wie auch unzureichenden Finanzen haben es sehr viel schwieriger  als reiche oder gebildete Individuen 
