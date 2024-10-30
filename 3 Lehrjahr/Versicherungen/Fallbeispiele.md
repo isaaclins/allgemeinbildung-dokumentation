@@ -7,4 +7,3 @@
 | Kimo hustet stark, er muss seine Lunge röntgen lassen                    | [[Krankenversicherung]] von Kimo                                     |               |
 | Amir ist unachtsam und fährt mit seinem Auto ins Heck des vorderen Autos | [[Motorfahrzeughaftpflichtversicherung]] vom Amir                    |               |
 | Luc verletzt sich am Arbeitsplatz an der Hand                            | [[Berufsunfallversicherung ]]von                                     |               |
-
