@@ -1,7 +1,30 @@
 Lernziele zu den Themen: (Es versteht sich, dass es sich bei allen aufgeführten Lernzielen lediglich um inhaltliche Schwerpunkte handelt. Haben Sie diese intus, sind Sie schon recht gut vorbereitet. Die Prüfung kann aber grundsätzlich alle noch weiteren Inhalte abfragen, die auf den Arbeitsblättern oder abgegebenen Textblättern (s. oben), in den bearbeiteten Seiten in Ihrem Lehrmittel oder auch im Unterricht mündlich besprochen worden sind.) 
 
-- Die Lernenden erläutern die Grundideen, die hinter den beiden Wirtschaftsformen (Zentrale Planwirtschaft u. Freie Marktwirtschaft) stehen, kennen deren Gründerväter und nennen jeweils auch diesen Formen sich annähernde konkrete Beispiele von Ländern. 
-    
+---
+### Lernziel 1
+Die Lernenden erläutern die Grundideen, die hinter den beiden Wirtschaftsformen (Zentrale Planwirtschaft u. Freie Marktwirtschaft) stehen, kennen deren Gründerväter und nennen jeweils auch diesen Formen sich annähernde konkrete Beispiele von Ländern. 
+#### **Dies sollte man wissen:**
+##### [[Zentrale Planwirtschaft]]: 
+- Staatliche Planung und Kontrolle der Wirtschaft
+- keine freie Marktwirtschaft
+- keine Konkurrenz
+- keine freie Preisbildung
+- keine freie Wahl des Arbeitsplatzes
+- keine freie Wahl des Wohnortes
+- keine freie Wahl des Konsums. 
+
+##### [[Freie Marktwirtschaft]]: 
+- Keine staatliche Planung und Kontrolle der Wirtschaft
+- freie Marktwirtschaft
+- freie Konkurrenz
+- freie Preisbildung
+- freie Wahl des Arbeitsplatzes
+- freie Wahl des Wohnortes
+- freie Wahl des Konsums.
+
+---
+
+
 
 - Sie nennen verschiedene Beispiele, in denen der völlig freie Markt versagt und sie erklären, was die Probleme einer Zentralen Planwirtschaft sind. 
     
