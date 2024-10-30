@@ -223,6 +223,8 @@ Sie klären die Frage, weshalb die Schweizer Landwirtschaft gegenüber dem Ausla
 
 #### **Lösung:**
 
+- Die Abstimmungsvorlage zur BVG-Reform am 22. Sept. 2024 zielte darauf ab, die berufliche Vorsorge (BVG) in der Schweiz zu reformieren. Das grundlegende Ziel war es, die finanzielle Stabilität und Nachhaltigkeit des Rentensystems zu sichern, um den demografischen Herausforderungen und der steigenden Lebenserwartung gerecht zu werden.
+
 ---
 
 ### Lernziel 10:
@@ -230,6 +232,9 @@ Sie klären die Frage, weshalb die Schweizer Landwirtschaft gegenüber dem Ausla
 - Sie nennen mind. zwei konkrete Massnahmen/Änderungen, mit welchen man die Ziele der BVG-Reform zu erreichen suchte. 
 
 #### **Lösung:**
+
+- **Erhöhung des Rentenalters**: Eine schrittweise Anhebung des Rentenalters, um die finanzielle Belastung des Rentensystems zu reduzieren.
+- **Anpassung der Beitragssätze**: Erhöhung der Beitragssätze für Arbeitnehmer und Arbeitgeber, um zusätzliche Mittel für die Rentenkassen zu generieren.
 
 ---
 
