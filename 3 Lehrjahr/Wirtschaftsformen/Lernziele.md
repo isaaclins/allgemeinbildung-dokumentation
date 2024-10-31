@@ -233,8 +233,9 @@ Sie klären die Frage, weshalb die Schweizer Landwirtschaft gegenüber dem Ausla
 
 #### **Lösung:**
 
-- **Erhöhung des Rentenalters**: Eine schrittweise Anhebung des Rentenalters, um die finanzielle Belastung des Rentensystems zu reduzieren.
-- **Anpassung der Beitragssätze**: Erhöhung der Beitragssätze für Arbeitnehmer und Arbeitgeber, um zusätzliche Mittel für die Rentenkassen zu generieren.
+**Anpassung des Umwandlungssatzes:** Der Umwandlungssatz wurde von 6.8% auf 6% gesenkt, was den Anteil des gesparten Altersguthabens definiert, den eine Person pro Jahr nach der Pensionierung erhält.
+
+**Beitragsstrukturänderung:** Jüngere Personen zahlen mehr in die Pensionskasse ein als bisher, während ältere Personen weniger einzahlen, jedoch immer noch mehr als die Jüngeren. Diese Anpassung soll zu einer
 
 ---
 
