@@ -284,7 +284,7 @@ Sie klären die Frage, weshalb die Schweizer Landwirtschaft gegenüber dem Ausla
 - **Wandel der Sektoren**: Von Agrar- zu Industrie- zu Dienstleistungsgesellschaft.
 - **Schweizer Landwirtschaft**: Hohe Kosten, staatliche Unterstützung.
 - **Wirtschaftsstandort Schweiz**: Stabilität, Bildung, Infrastruktur vs. hohe Kosten, kleiner Markt.
-- **BVG-Reform**: Rentenstabilität, Erhöhung des Rentenalters, Beitragssätze.
+- **BVG-Reform**: Rentenstabilität, änderung der struktur, Beitragssätze.
 - **Pro und Contra der Reform**: Finanzielle Stabilität vs. Rentenkürzungen, höhere Beiträge.
 - **Abstimmung**: Referendum, Reform abgelehnt.
 
