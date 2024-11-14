@@ -1,5 +1,3 @@
-# Infos zur Untermiete
-
 ## Was ist das?
 Mieter können ihre Wohnung oder Zimmer an andere vermieten.
 

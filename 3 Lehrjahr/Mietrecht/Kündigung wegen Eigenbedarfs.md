@@ -1,5 +1,3 @@
-# Kündigung wegen Eigenbedarf
-
 ## Was ist das?
 Eine Eigenbedarfskündigung passiert, wenn der Vermieter die Wohnung selbst oder für nahe Verwandte braucht.
 
