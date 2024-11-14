@@ -15,9 +15,11 @@ Die neuen Regeln sollen Missbrauch verhindern und die Rechte der Vermieter stär
 
 ### Folgen bei Verstössen
 - Mieter müssen die Bedingungen der Untermiete offenlegen, sonst kann die Genehmigung verweigert werden.
-- Bei Regelverstößen kann nach einer Warnung gekündigt werden.
+- Bei Regelverstößen kann nach einer Mahnung gekündigt werden.
 - Die Änderungen sollen auch bei Geschäftsräumen Missbrauch verhindern.
 - Parlament und Bundesrat empfehlen die Annahme der Gesetzesänderung.
+- Mieter kann bei Regelnverstoss auch eine Mahnung bekommen - wenn der Mieter weiterhin Regeln verstösst, dann kann der Vermieter ein Kündigung machen mit einer Frist von 30 Tagen. 
+
 
 ### Parteien dafür
 - SVP
