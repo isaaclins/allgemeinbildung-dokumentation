@@ -20,13 +20,14 @@ Besserer Schutz der Mieter vor ungerechtfertigten Kündigungen, mehr Stabilität
 - Parlament und Bundesrat unterstützen die Gesetzesänderung.
 
 ### Parteien dafür
+- FDP
+- SVP
+
+> "Für faire Regeln und gegen Missbrauch"
+
+
+### Parteien dagegen
 - SP
 - Grüne
 
 > "Mieterschutz stärken"
-
-### Parteien dagegen
-- FDP
-- SVP
-
-> "Bürokratieabbau und Eigentumsschutz"
