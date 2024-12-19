@@ -1,3 +1,7 @@
+### Lernziele Wirtschaftsformen
+
+In diesem Abschnitt werden die Lernziele zu den verschiedenen Wirtschaftsformen erläutert. Die Lernenden sollen die Grundideen, Vor- und Nachteile sowie konkrete Beispiele der unterschiedlichen Wirtschaftsformen verstehen.
+
 ### Lernziel 1:
 
 Die Lernenden erläutern die Grundideen, die hinter den beiden Wirtschaftsformen (Zentrale Planwirtschaft u. Freie Marktwirtschaft) stehen, kennen deren Gründerväter und nennen jeweils auch diesen Formen sich annähernde konkrete Beispiele von Ländern. 

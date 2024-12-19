@@ -1,8 +1,7 @@
-### Lernziele Wirtschaftsformen
--> [[Lernziele]]
+Es gibt verschiedene Wirtschaftsformen, die sich in ihrer Organisation und Steuerung unterscheiden. Diese Wirtschaftsformen beeinflussen, wie Ressourcen verteilt, Güter produziert und Dienstleistungen bereitgestellt werden.
 
-Es gibt verschiedene Wirtschaftsformen, die sich in ihrer Organisation und Steuerung unterscheiden:
 ### Lernziele Wirtschaftsformen
+
 -> [[Lernziele]]
 
 Es gibt verschiedene Wirtschaftsformen
