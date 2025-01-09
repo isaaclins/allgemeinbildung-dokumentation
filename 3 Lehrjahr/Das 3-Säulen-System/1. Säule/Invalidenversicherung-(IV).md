@@ -20,3 +20,5 @@ Die Invalidenversicherung (IV) ist ein Teil der ersten Säule des Schweizer Alte
 ## Finanzierung und Obligatorik
 
 Die Invalidenversicherung (IV) ist obligatorisch und wird durch Beiträge von Arbeitnehmern, Arbeitgebern und dem Staat finanziert. Alle in der Schweiz lebenden Personen sind automatisch versichert.
+
+
