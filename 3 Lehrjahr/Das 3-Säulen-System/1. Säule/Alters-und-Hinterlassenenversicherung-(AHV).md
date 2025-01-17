@@ -5,3 +5,8 @@ Die Alters- und Hinterlassenenversicherung (AHV) ist ein zentraler Bestandteil d
 ## Finanzierung und Obligatorik
 
 Die Alters- und Hinterlassenenversicherung (AHV) ist obligatorisch und wird durch Beiträge von Arbeitnehmern, Arbeitgebern und dem Staat finanziert. Alle in der Schweiz lebenden Personen sind automatisch versichert.
+
+
+
+
+"EO) ersetzt Personen, die Militärdienst oder Zivilschutz"
